@@ -1,0 +1,1009 @@
+reason for stop,variable,value,category
+Consensual Encounter Resulting in Search,BIPOC,136.0,Race
+Investigtion to Determine whether Person was Truant,BIPOC,29.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,BIPOC,936.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,BIPOC,222.0,Race
+Possible Conduct Under Education Code,BIPOC,1.0,Race
+Reasonable Suspicion,BIPOC,11661.0,Race
+Traffic Violation,BIPOC,8126.0,Race
+Unidentified Reason for Stop,BIPOC,16.0,Race
+Consensual Encounter Resulting in Search,white,30.0,Race
+Investigtion to Determine whether Person was Truant,white,3.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,white,66.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,white,13.0,Race
+Possible Conduct Under Education Code,white,0.0,Race
+Reasonable Suspicion,white,1917.0,Race
+Traffic Violation,white,1236.0,Race
+Unidentified Reason for Stop,white,3.0,Race
+Consensual Encounter Resulting in Search,Hispanic or Latino,39.0,Race
+Investigtion to Determine whether Person was Truant,Hispanic or Latino,11.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,Hispanic or Latino,198.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,Hispanic or Latino,46.0,Race
+Possible Conduct Under Education Code,Hispanic or Latino,1.0,Race
+Reasonable Suspicion,Hispanic or Latino,3126.0,Race
+Traffic Violation,Hispanic or Latino,2607.0,Race
+Unidentified Reason for Stop,Hispanic or Latino,3.0,Race
+Consensual Encounter Resulting in Search,Black or African American,87.0,Race
+Investigtion to Determine whether Person was Truant,Black or African American,16.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,Black or African American,659.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,Black or African American,154.0,Race
+Possible Conduct Under Education Code,Black or African American,0.0,Race
+Reasonable Suspicion,Black or African American,7599.0,Race
+Traffic Violation,Black or African American,4330.0,Race
+Unidentified Reason for Stop,Black or African American,11.0,Race
+Consensual Encounter Resulting in Search,Asian,5.0,Race
+Investigtion to Determine whether Person was Truant,Asian,2.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,Asian,38.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,Asian,14.0,Race
+Possible Conduct Under Education Code,Asian,0.0,Race
+Reasonable Suspicion,Asian,471.0,Race
+Traffic Violation,Asian,642.0,Race
+Unidentified Reason for Stop,Asian,1.0,Race
+Consensual Encounter Resulting in Search,Multiracial,1.0,Race
+Investigtion to Determine whether Person was Truant,Multiracial,0.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,Multiracial,13.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,Multiracial,5.0,Race
+Possible Conduct Under Education Code,Multiracial,0.0,Race
+Reasonable Suspicion,Multiracial,106.0,Race
+Traffic Violation,Multiracial,158.0,Race
+Unidentified Reason for Stop,Multiracial,0.0,Race
+Consensual Encounter Resulting in Search,Middle Eastern or South Asian,2.0,Race
+Investigtion to Determine whether Person was Truant,Middle Eastern or South Asian,0.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,Middle Eastern or South Asian,11.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,Middle Eastern or South Asian,3.0,Race
+Possible Conduct Under Education Code,Middle Eastern or South Asian,0.0,Race
+Reasonable Suspicion,Middle Eastern or South Asian,231.0,Race
+Traffic Violation,Middle Eastern or South Asian,330.0,Race
+Unidentified Reason for Stop,Middle Eastern or South Asian,1.0,Race
+Consensual Encounter Resulting in Search,Pacific Islander,2.0,Race
+Investigtion to Determine whether Person was Truant,Pacific Islander,0.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,Pacific Islander,12.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,Pacific Islander,0.0,Race
+Possible Conduct Under Education Code,Pacific Islander,0.0,Race
+Reasonable Suspicion,Pacific Islander,108.0,Race
+Traffic Violation,Pacific Islander,55.0,Race
+Unidentified Reason for Stop,Pacific Islander,0.0,Race
+Consensual Encounter Resulting in Search,Native American,0.0,Race
+Investigtion to Determine whether Person was Truant,Native American,0.0,Race
+Knowledge of Outstanding Arrest Warrant or Wanted Person,Native American,5.0,Race
+Parole/Probation/PRCS/Mandatory Supervision,Native American,0.0,Race
+Possible Conduct Under Education Code,Native American,0.0,Race
+Reasonable Suspicion,Native American,20.0,Race
+Traffic Violation,Native American,4.0,Race
+Unidentified Reason for Stop,Native American,0.0,Race
+Consensual Encounter Resulting in Search,male,123.0,Gender
+Investigtion to Determine whether Person was Truant,male,22.0,Gender
+Knowledge of Outstanding Arrest Warrant or Wanted Person,male,822.0,Gender
+Parole/Probation/PRCS/Mandatory Supervision,male,216.0,Gender
+Possible Conduct Under Education Code,male,1.0,Gender
+Reasonable Suspicion,male,9471.0,Gender
+Traffic Violation,male,6625.0,Gender
+Unidentified Reason for Stop,male,15.0,Gender
+Consensual Encounter Resulting in Search,female,43.0,Gender
+Investigtion to Determine whether Person was Truant,female,10.0,Gender
+Knowledge of Outstanding Arrest Warrant or Wanted Person,female,179.0,Gender
+Parole/Probation/PRCS/Mandatory Supervision,female,19.0,Gender
+Possible Conduct Under Education Code,female,0.0,Gender
+Reasonable Suspicion,female,4083.0,Gender
+Traffic Violation,female,2729.0,Gender
+Unidentified Reason for Stop,female,4.0,Gender
+Consensual Encounter Resulting in Search,unidentified gender,0.0,Gender
+Investigtion to Determine whether Person was Truant,unidentified gender,0.0,Gender
+Knowledge of Outstanding Arrest Warrant or Wanted Person,unidentified gender,1.0,Gender
+Parole/Probation/PRCS/Mandatory Supervision,unidentified gender,0.0,Gender
+Possible Conduct Under Education Code,unidentified gender,0.0,Gender
+Reasonable Suspicion,unidentified gender,9.0,Gender
+Traffic Violation,unidentified gender,3.0,Gender
+Unidentified Reason for Stop,unidentified gender,0.0,Gender
+Consensual Encounter Resulting in Search,gender nonconforming,0.0,Gender
+Investigtion to Determine whether Person was Truant,gender nonconforming,0.0,Gender
+Knowledge of Outstanding Arrest Warrant or Wanted Person,gender nonconforming,0.0,Gender
+Parole/Probation/PRCS/Mandatory Supervision,gender nonconforming,0.0,Gender
+Possible Conduct Under Education Code,gender nonconforming,0.0,Gender
+Reasonable Suspicion,gender nonconforming,15.0,Gender
+Traffic Violation,gender nonconforming,5.0,Gender
+Unidentified Reason for Stop,gender nonconforming,0.0,Gender
+Consensual Encounter Resulting in Search,lgbt,3.0,LGBT
+Investigtion to Determine whether Person was Truant,lgbt,0.0,LGBT
+Knowledge of Outstanding Arrest Warrant or Wanted Person,lgbt,5.0,LGBT
+Parole/Probation/PRCS/Mandatory Supervision,lgbt,0.0,LGBT
+Possible Conduct Under Education Code,lgbt,0.0,LGBT
+Reasonable Suspicion,lgbt,141.0,LGBT
+Traffic Violation,lgbt,23.0,LGBT
+Unidentified Reason for Stop,lgbt,0.0,LGBT
+Consensual Encounter Resulting in Search,not lgbt,163.0,LGBT
+Investigtion to Determine whether Person was Truant,not lgbt,32.0,LGBT
+Knowledge of Outstanding Arrest Warrant or Wanted Person,not lgbt,997.0,LGBT
+Parole/Probation/PRCS/Mandatory Supervision,not lgbt,235.0,LGBT
+Possible Conduct Under Education Code,not lgbt,1.0,LGBT
+Reasonable Suspicion,not lgbt,13437.0,LGBT
+Traffic Violation,not lgbt,9339.0,LGBT
+Unidentified Reason for Stop,not lgbt,19.0,LGBT
+Consensual Encounter Resulting in Search,less than 10 years,0.0,Age Group
+Investigtion to Determine whether Person was Truant,less than 10 years,1.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,less than 10 years,9.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,less than 10 years,0.0,Age Group
+Possible Conduct Under Education Code,less than 10 years,0.0,Age Group
+Reasonable Suspicion,less than 10 years,32.0,Age Group
+Traffic Violation,less than 10 years,11.0,Age Group
+Unidentified Reason for Stop,less than 10 years,0.0,Age Group
+Consensual Encounter Resulting in Search,aged 10-20,35.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 10-20,16.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 10-20,205.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 10-20,43.0,Age Group
+Possible Conduct Under Education Code,aged 10-20,1.0,Age Group
+Reasonable Suspicion,aged 10-20,2503.0,Age Group
+Traffic Violation,aged 10-20,1855.0,Age Group
+Unidentified Reason for Stop,aged 10-20,5.0,Age Group
+Consensual Encounter Resulting in Search,aged 21-30,62.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 21-30,6.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 21-30,399.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 21-30,92.0,Age Group
+Possible Conduct Under Education Code,aged 21-30,0.0,Age Group
+Reasonable Suspicion,aged 21-30,4904.0,Age Group
+Traffic Violation,aged 21-30,3850.0,Age Group
+Unidentified Reason for Stop,aged 21-30,5.0,Age Group
+Consensual Encounter Resulting in Search,aged 31-40,32.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 31-40,5.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 31-40,202.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 31-40,48.0,Age Group
+Possible Conduct Under Education Code,aged 31-40,0.0,Age Group
+Reasonable Suspicion,aged 31-40,3059.0,Age Group
+Traffic Violation,aged 31-40,2026.0,Age Group
+Unidentified Reason for Stop,aged 31-40,4.0,Age Group
+Consensual Encounter Resulting in Search,aged 41-50,28.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 41-50,2.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 41-50,114.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 41-50,30.0,Age Group
+Possible Conduct Under Education Code,aged 41-50,0.0,Age Group
+Reasonable Suspicion,aged 41-50,1902.0,Age Group
+Traffic Violation,aged 41-50,1123.0,Age Group
+Unidentified Reason for Stop,aged 41-50,5.0,Age Group
+Consensual Encounter Resulting in Search,aged 51-60,7.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 51-60,2.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 51-60,59.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 51-60,11.0,Age Group
+Possible Conduct Under Education Code,aged 51-60,0.0,Age Group
+Reasonable Suspicion,aged 51-60,827.0,Age Group
+Traffic Violation,aged 51-60,369.0,Age Group
+Unidentified Reason for Stop,aged 51-60,0.0,Age Group
+Consensual Encounter Resulting in Search,aged 61-70,1.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 61-70,0.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 61-70,13.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 61-70,7.0,Age Group
+Possible Conduct Under Education Code,aged 61-70,0.0,Age Group
+Reasonable Suspicion,aged 61-70,177.0,Age Group
+Traffic Violation,aged 61-70,68.0,Age Group
+Unidentified Reason for Stop,aged 61-70,0.0,Age Group
+Consensual Encounter Resulting in Search,aged 71-80,0.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 71-80,0.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 71-80,1.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 71-80,3.0,Age Group
+Possible Conduct Under Education Code,aged 71-80,0.0,Age Group
+Reasonable Suspicion,aged 71-80,80.0,Age Group
+Traffic Violation,aged 71-80,27.0,Age Group
+Unidentified Reason for Stop,aged 71-80,0.0,Age Group
+Consensual Encounter Resulting in Search,aged 81-90,0.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 81-90,0.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 81-90,0.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 81-90,1.0,Age Group
+Possible Conduct Under Education Code,aged 81-90,0.0,Age Group
+Reasonable Suspicion,aged 81-90,20.0,Age Group
+Traffic Violation,aged 81-90,0.0,Age Group
+Unidentified Reason for Stop,aged 81-90,0.0,Age Group
+Consensual Encounter Resulting in Search,aged 91-100,0.0,Age Group
+Investigtion to Determine whether Person was Truant,aged 91-100,0.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged 91-100,0.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,aged 91-100,0.0,Age Group
+Possible Conduct Under Education Code,aged 91-100,0.0,Age Group
+Reasonable Suspicion,aged 91-100,2.0,Age Group
+Traffic Violation,aged 91-100,0.0,Age Group
+Unidentified Reason for Stop,aged 91-100,0.0,Age Group
+Consensual Encounter Resulting in Search,more than 100 years,1.0,Age Group
+Investigtion to Determine whether Person was Truant,more than 100 years,0.0,Age Group
+Knowledge of Outstanding Arrest Warrant or Wanted Person,more than 100 years,0.0,Age Group
+Parole/Probation/PRCS/Mandatory Supervision,more than 100 years,0.0,Age Group
+Possible Conduct Under Education Code,more than 100 years,0.0,Age Group
+Reasonable Suspicion,more than 100 years,72.0,Age Group
+Traffic Violation,more than 100 years,33.0,Age Group
+Unidentified Reason for Stop,more than 100 years,0.0,Age Group
+Consensual Encounter Resulting in Search,full english fluency,146.0,English Fluency Level
+Investigtion to Determine whether Person was Truant,full english fluency,31.0,English Fluency Level
+Knowledge of Outstanding Arrest Warrant or Wanted Person,full english fluency,947.0,English Fluency Level
+Parole/Probation/PRCS/Mandatory Supervision,full english fluency,226.0,English Fluency Level
+Possible Conduct Under Education Code,full english fluency,1.0,English Fluency Level
+Reasonable Suspicion,full english fluency,12469.0,English Fluency Level
+Traffic Violation,full english fluency,8753.0,English Fluency Level
+Unidentified Reason for Stop,full english fluency,19.0,English Fluency Level
+Consensual Encounter Resulting in Search,limited english fluency,20.0,English Fluency Level
+Investigtion to Determine whether Person was Truant,limited english fluency,1.0,English Fluency Level
+Knowledge of Outstanding Arrest Warrant or Wanted Person,limited english fluency,55.0,English Fluency Level
+Parole/Probation/PRCS/Mandatory Supervision,limited english fluency,9.0,English Fluency Level
+Possible Conduct Under Education Code,limited english fluency,0.0,English Fluency Level
+Reasonable Suspicion,limited english fluency,1109.0,English Fluency Level
+Traffic Violation,limited english fluency,609.0,English Fluency Level
+Unidentified Reason for Stop,limited english fluency,0.0,English Fluency Level
+Consensual Encounter Resulting in Search,disabled,35.0,Disability
+Investigtion to Determine whether Person was Truant,disabled,5.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,disabled,35.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,disabled,10.0,Disability
+Possible Conduct Under Education Code,disabled,1.0,Disability
+Reasonable Suspicion,disabled,2533.0,Disability
+Traffic Violation,disabled,56.0,Disability
+Unidentified Reason for Stop,disabled,0.0,Disability
+Consensual Encounter Resulting in Search,not disabled,131.0,Disability
+Investigtion to Determine whether Person was Truant,not disabled,27.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,not disabled,967.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,not disabled,225.0,Disability
+Possible Conduct Under Education Code,not disabled,0.0,Disability
+Reasonable Suspicion,not disabled,11045.0,Disability
+Traffic Violation,not disabled,9306.0,Disability
+Unidentified Reason for Stop,not disabled,19.0,Disability
+Consensual Encounter Resulting in Search,mental health condition,26.0,Disability
+Investigtion to Determine whether Person was Truant,mental health condition,4.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,mental health condition,17.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,mental health condition,2.0,Disability
+Possible Conduct Under Education Code,mental health condition,0.0,Disability
+Reasonable Suspicion,mental health condition,2076.0,Disability
+Traffic Violation,mental health condition,7.0,Disability
+Unidentified Reason for Stop,mental health condition,0.0,Disability
+Consensual Encounter Resulting in Search,speech impairment,0.0,Disability
+Investigtion to Determine whether Person was Truant,speech impairment,0.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,speech impairment,8.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,speech impairment,1.0,Disability
+Possible Conduct Under Education Code,speech impairment,0.0,Disability
+Reasonable Suspicion,speech impairment,114.0,Disability
+Traffic Violation,speech impairment,26.0,Disability
+Unidentified Reason for Stop,speech impairment,0.0,Disability
+Consensual Encounter Resulting in Search,multiple disability,5.0,Disability
+Investigtion to Determine whether Person was Truant,multiple disability,1.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,multiple disability,0.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,multiple disability,3.0,Disability
+Possible Conduct Under Education Code,multiple disability,0.0,Disability
+Reasonable Suspicion,multiple disability,176.0,Disability
+Traffic Violation,multiple disability,0.0,Disability
+Unidentified Reason for Stop,multiple disability,0.0,Disability
+Consensual Encounter Resulting in Search,deafness,0.0,Disability
+Investigtion to Determine whether Person was Truant,deafness,0.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,deafness,2.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,deafness,0.0,Disability
+Possible Conduct Under Education Code,deafness,0.0,Disability
+Reasonable Suspicion,deafness,15.0,Disability
+Traffic Violation,deafness,6.0,Disability
+Unidentified Reason for Stop,deafness,0.0,Disability
+Consensual Encounter Resulting in Search,development disability,1.0,Disability
+Investigtion to Determine whether Person was Truant,development disability,0.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,development disability,0.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,development disability,0.0,Disability
+Possible Conduct Under Education Code,development disability,0.0,Disability
+Reasonable Suspicion,development disability,43.0,Disability
+Traffic Violation,development disability,2.0,Disability
+Unidentified Reason for Stop,development disability,0.0,Disability
+Consensual Encounter Resulting in Search,blind,0.0,Disability
+Investigtion to Determine whether Person was Truant,blind,0.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,blind,3.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,blind,1.0,Disability
+Possible Conduct Under Education Code,blind,0.0,Disability
+Reasonable Suspicion,blind,20.0,Disability
+Traffic Violation,blind,2.0,Disability
+Unidentified Reason for Stop,blind,0.0,Disability
+Consensual Encounter Resulting in Search,hyperactivity,0.0,Disability
+Investigtion to Determine whether Person was Truant,hyperactivity,0.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,hyperactivity,0.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,hyperactivity,0.0,Disability
+Possible Conduct Under Education Code,hyperactivity,1.0,Disability
+Reasonable Suspicion,hyperactivity,0.0,Disability
+Traffic Violation,hyperactivity,0.0,Disability
+Unidentified Reason for Stop,hyperactivity,0.0,Disability
+Consensual Encounter Resulting in Search,other disability,3.0,Disability
+Investigtion to Determine whether Person was Truant,other disability,0.0,Disability
+Knowledge of Outstanding Arrest Warrant or Wanted Person,other disability,5.0,Disability
+Parole/Probation/PRCS/Mandatory Supervision,other disability,3.0,Disability
+Possible Conduct Under Education Code,other disability,0.0,Disability
+Reasonable Suspicion,other disability,89.0,Disability
+Traffic Violation,other disability,13.0,Disability
+Unidentified Reason for Stop,other disability,0.0,Disability
+Consensual Encounter Resulting in Search,traffic violation,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,traffic violation,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,traffic violation,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,traffic violation,0.0,Police Stop Reason
+Possible Conduct Under Education Code,traffic violation,0.0,Police Stop Reason
+Reasonable Suspicion,traffic violation,0.0,Police Stop Reason
+Traffic Violation,traffic violation,9362.0,Police Stop Reason
+Unidentified Reason for Stop,traffic violation,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,reasonable suspicion,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,reasonable suspicion,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,reasonable suspicion,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,reasonable suspicion,0.0,Police Stop Reason
+Possible Conduct Under Education Code,reasonable suspicion,0.0,Police Stop Reason
+Reasonable Suspicion,reasonable suspicion,13578.0,Police Stop Reason
+Traffic Violation,reasonable suspicion,0.0,Police Stop Reason
+Unidentified Reason for Stop,reasonable suspicion,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,knowledge of outstanding arrest warrant or wanted person,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,knowledge of outstanding arrest warrant or wanted person,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,knowledge of outstanding arrest warrant or wanted person,1002.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,knowledge of outstanding arrest warrant or wanted person,0.0,Police Stop Reason
+Possible Conduct Under Education Code,knowledge of outstanding arrest warrant or wanted person,0.0,Police Stop Reason
+Reasonable Suspicion,knowledge of outstanding arrest warrant or wanted person,0.0,Police Stop Reason
+Traffic Violation,knowledge of outstanding arrest warrant or wanted person,0.0,Police Stop Reason
+Unidentified Reason for Stop,knowledge of outstanding arrest warrant or wanted person,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,consensual encounter resulting in search,166.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,consensual encounter resulting in search,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,consensual encounter resulting in search,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,consensual encounter resulting in search,0.0,Police Stop Reason
+Possible Conduct Under Education Code,consensual encounter resulting in search,0.0,Police Stop Reason
+Reasonable Suspicion,consensual encounter resulting in search,0.0,Police Stop Reason
+Traffic Violation,consensual encounter resulting in search,0.0,Police Stop Reason
+Unidentified Reason for Stop,consensual encounter resulting in search,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,parole/probation/PRCS/mandatory supervision,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,parole/probation/PRCS/mandatory supervision,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,parole/probation/PRCS/mandatory supervision,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,parole/probation/PRCS/mandatory supervision,235.0,Police Stop Reason
+Possible Conduct Under Education Code,parole/probation/PRCS/mandatory supervision,0.0,Police Stop Reason
+Reasonable Suspicion,parole/probation/PRCS/mandatory supervision,0.0,Police Stop Reason
+Traffic Violation,parole/probation/PRCS/mandatory supervision,0.0,Police Stop Reason
+Unidentified Reason for Stop,parole/probation/PRCS/mandatory supervision,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,investigtion to determine whether person was truant,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,investigtion to determine whether person was truant,32.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,investigtion to determine whether person was truant,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,investigtion to determine whether person was truant,0.0,Police Stop Reason
+Possible Conduct Under Education Code,investigtion to determine whether person was truant,0.0,Police Stop Reason
+Reasonable Suspicion,investigtion to determine whether person was truant,0.0,Police Stop Reason
+Traffic Violation,investigtion to determine whether person was truant,0.0,Police Stop Reason
+Unidentified Reason for Stop,investigtion to determine whether person was truant,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,possible conduct under education code,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,possible conduct under education code,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,possible conduct under education code,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,possible conduct under education code,0.0,Police Stop Reason
+Possible Conduct Under Education Code,possible conduct under education code,1.0,Police Stop Reason
+Reasonable Suspicion,possible conduct under education code,0.0,Police Stop Reason
+Traffic Violation,possible conduct under education code,0.0,Police Stop Reason
+Unidentified Reason for Stop,possible conduct under education code,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,unidentified reason for stop,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,unidentified reason for stop,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,unidentified reason for stop,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,unidentified reason for stop,0.0,Police Stop Reason
+Possible Conduct Under Education Code,unidentified reason for stop,0.0,Police Stop Reason
+Reasonable Suspicion,unidentified reason for stop,0.0,Police Stop Reason
+Traffic Violation,unidentified reason for stop,0.0,Police Stop Reason
+Unidentified Reason for Stop,unidentified reason for stop,19.0,Police Stop Reason
+Consensual Encounter Resulting in Search,determine whether student violated school policy,0.0,Police Stop Reason
+Investigtion to Determine whether Person was Truant,determine whether student violated school policy,0.0,Police Stop Reason
+Knowledge of Outstanding Arrest Warrant or Wanted Person,determine whether student violated school policy,0.0,Police Stop Reason
+Parole/Probation/PRCS/Mandatory Supervision,determine whether student violated school policy,0.0,Police Stop Reason
+Possible Conduct Under Education Code,determine whether student violated school policy,0.0,Police Stop Reason
+Reasonable Suspicion,determine whether student violated school policy,0.0,Police Stop Reason
+Traffic Violation,determine whether student violated school policy,0.0,Police Stop Reason
+Unidentified Reason for Stop,determine whether student violated school policy,0.0,Police Stop Reason
+Consensual Encounter Resulting in Search,jan_2019,7.0,else
+Investigtion to Determine whether Person was Truant,jan_2019,1.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,jan_2019,79.0,else
+Parole/Probation/PRCS/Mandatory Supervision,jan_2019,16.0,else
+Possible Conduct Under Education Code,jan_2019,0.0,else
+Reasonable Suspicion,jan_2019,1167.0,else
+Traffic Violation,jan_2019,709.0,else
+Unidentified Reason for Stop,jan_2019,0.0,else
+Consensual Encounter Resulting in Search,feb_2019,26.0,else
+Investigtion to Determine whether Person was Truant,feb_2019,1.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,feb_2019,70.0,else
+Parole/Probation/PRCS/Mandatory Supervision,feb_2019,24.0,else
+Possible Conduct Under Education Code,feb_2019,0.0,else
+Reasonable Suspicion,feb_2019,1080.0,else
+Traffic Violation,feb_2019,734.0,else
+Unidentified Reason for Stop,feb_2019,3.0,else
+Consensual Encounter Resulting in Search,mar_2019,17.0,else
+Investigtion to Determine whether Person was Truant,mar_2019,2.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,mar_2019,91.0,else
+Parole/Probation/PRCS/Mandatory Supervision,mar_2019,36.0,else
+Possible Conduct Under Education Code,mar_2019,0.0,else
+Reasonable Suspicion,mar_2019,1108.0,else
+Traffic Violation,mar_2019,881.0,else
+Unidentified Reason for Stop,mar_2019,3.0,else
+Consensual Encounter Resulting in Search,apr_2019,18.0,else
+Investigtion to Determine whether Person was Truant,apr_2019,4.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,apr_2019,73.0,else
+Parole/Probation/PRCS/Mandatory Supervision,apr_2019,20.0,else
+Possible Conduct Under Education Code,apr_2019,0.0,else
+Reasonable Suspicion,apr_2019,1216.0,else
+Traffic Violation,apr_2019,866.0,else
+Unidentified Reason for Stop,apr_2019,2.0,else
+Consensual Encounter Resulting in Search,may_2019,17.0,else
+Investigtion to Determine whether Person was Truant,may_2019,4.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,may_2019,113.0,else
+Parole/Probation/PRCS/Mandatory Supervision,may_2019,29.0,else
+Possible Conduct Under Education Code,may_2019,0.0,else
+Reasonable Suspicion,may_2019,1155.0,else
+Traffic Violation,may_2019,814.0,else
+Unidentified Reason for Stop,may_2019,2.0,else
+Consensual Encounter Resulting in Search,jun_2019,21.0,else
+Investigtion to Determine whether Person was Truant,jun_2019,3.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,jun_2019,77.0,else
+Parole/Probation/PRCS/Mandatory Supervision,jun_2019,31.0,else
+Possible Conduct Under Education Code,jun_2019,0.0,else
+Reasonable Suspicion,jun_2019,1096.0,else
+Traffic Violation,jun_2019,1018.0,else
+Unidentified Reason for Stop,jun_2019,2.0,else
+Consensual Encounter Resulting in Search,jul_2019,13.0,else
+Investigtion to Determine whether Person was Truant,jul_2019,6.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,jul_2019,103.0,else
+Parole/Probation/PRCS/Mandatory Supervision,jul_2019,30.0,else
+Possible Conduct Under Education Code,jul_2019,0.0,else
+Reasonable Suspicion,jul_2019,1335.0,else
+Traffic Violation,jul_2019,1082.0,else
+Unidentified Reason for Stop,jul_2019,1.0,else
+Consensual Encounter Resulting in Search,aug_2019,16.0,else
+Investigtion to Determine whether Person was Truant,aug_2019,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aug_2019,95.0,else
+Parole/Probation/PRCS/Mandatory Supervision,aug_2019,19.0,else
+Possible Conduct Under Education Code,aug_2019,0.0,else
+Reasonable Suspicion,aug_2019,1243.0,else
+Traffic Violation,aug_2019,967.0,else
+Unidentified Reason for Stop,aug_2019,2.0,else
+Consensual Encounter Resulting in Search,sep_2019,7.0,else
+Investigtion to Determine whether Person was Truant,sep_2019,4.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,sep_2019,91.0,else
+Parole/Probation/PRCS/Mandatory Supervision,sep_2019,10.0,else
+Possible Conduct Under Education Code,sep_2019,0.0,else
+Reasonable Suspicion,sep_2019,1123.0,else
+Traffic Violation,sep_2019,633.0,else
+Unidentified Reason for Stop,sep_2019,0.0,else
+Consensual Encounter Resulting in Search,oct_2019,9.0,else
+Investigtion to Determine whether Person was Truant,oct_2019,3.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,oct_2019,81.0,else
+Parole/Probation/PRCS/Mandatory Supervision,oct_2019,5.0,else
+Possible Conduct Under Education Code,oct_2019,0.0,else
+Reasonable Suspicion,oct_2019,1020.0,else
+Traffic Violation,oct_2019,578.0,else
+Unidentified Reason for Stop,oct_2019,1.0,else
+Consensual Encounter Resulting in Search,nov_2019,8.0,else
+Investigtion to Determine whether Person was Truant,nov_2019,2.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,nov_2019,59.0,else
+Parole/Probation/PRCS/Mandatory Supervision,nov_2019,8.0,else
+Possible Conduct Under Education Code,nov_2019,1.0,else
+Reasonable Suspicion,nov_2019,1034.0,else
+Traffic Violation,nov_2019,613.0,else
+Unidentified Reason for Stop,nov_2019,1.0,else
+Consensual Encounter Resulting in Search,dec_2019,7.0,else
+Investigtion to Determine whether Person was Truant,dec_2019,2.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,dec_2019,70.0,else
+Parole/Probation/PRCS/Mandatory Supervision,dec_2019,7.0,else
+Possible Conduct Under Education Code,dec_2019,0.0,else
+Reasonable Suspicion,dec_2019,1001.0,else
+Traffic Violation,dec_2019,467.0,else
+Unidentified Reason for Stop,dec_2019,2.0,else
+Consensual Encounter Resulting in Search,handcuffed,56.0,Handcuff Use
+Investigtion to Determine whether Person was Truant,handcuffed,7.0,Handcuff Use
+Knowledge of Outstanding Arrest Warrant or Wanted Person,handcuffed,838.0,Handcuff Use
+Parole/Probation/PRCS/Mandatory Supervision,handcuffed,154.0,Handcuff Use
+Possible Conduct Under Education Code,handcuffed,0.0,Handcuff Use
+Reasonable Suspicion,handcuffed,7789.0,Handcuff Use
+Traffic Violation,handcuffed,767.0,Handcuff Use
+Unidentified Reason for Stop,handcuffed,3.0,Handcuff Use
+Consensual Encounter Resulting in Search,not handcuffed,110.0,Handcuff Use
+Investigtion to Determine whether Person was Truant,not handcuffed,25.0,Handcuff Use
+Knowledge of Outstanding Arrest Warrant or Wanted Person,not handcuffed,164.0,Handcuff Use
+Parole/Probation/PRCS/Mandatory Supervision,not handcuffed,81.0,Handcuff Use
+Possible Conduct Under Education Code,not handcuffed,1.0,Handcuff Use
+Reasonable Suspicion,not handcuffed,5789.0,Handcuff Use
+Traffic Violation,not handcuffed,8595.0,Handcuff Use
+Unidentified Reason for Stop,not handcuffed,16.0,Handcuff Use
+Consensual Encounter Resulting in Search,drugs found,22.0,Finding of Drugs
+Investigtion to Determine whether Person was Truant,drugs found,1.0,Finding of Drugs
+Knowledge of Outstanding Arrest Warrant or Wanted Person,drugs found,104.0,Finding of Drugs
+Parole/Probation/PRCS/Mandatory Supervision,drugs found,40.0,Finding of Drugs
+Possible Conduct Under Education Code,drugs found,0.0,Finding of Drugs
+Reasonable Suspicion,drugs found,723.0,Finding of Drugs
+Traffic Violation,drugs found,539.0,Finding of Drugs
+Unidentified Reason for Stop,drugs found,0.0,Finding of Drugs
+Consensual Encounter Resulting in Search,drugs not found,144.0,Finding of Drugs
+Investigtion to Determine whether Person was Truant,drugs not found,31.0,Finding of Drugs
+Knowledge of Outstanding Arrest Warrant or Wanted Person,drugs not found,898.0,Finding of Drugs
+Parole/Probation/PRCS/Mandatory Supervision,drugs not found,195.0,Finding of Drugs
+Possible Conduct Under Education Code,drugs not found,1.0,Finding of Drugs
+Reasonable Suspicion,drugs not found,12855.0,Finding of Drugs
+Traffic Violation,drugs not found,8823.0,Finding of Drugs
+Unidentified Reason for Stop,drugs not found,19.0,Finding of Drugs
+Consensual Encounter Resulting in Search,consensual_encounter_resulting_in_search_proportion,100.0,else
+Investigtion to Determine whether Person was Truant,consensual_encounter_resulting_in_search_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,consensual_encounter_resulting_in_search_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,consensual_encounter_resulting_in_search_proportion,0.0,else
+Possible Conduct Under Education Code,consensual_encounter_resulting_in_search_proportion,0.0,else
+Reasonable Suspicion,consensual_encounter_resulting_in_search_proportion,0.0,else
+Traffic Violation,consensual_encounter_resulting_in_search_proportion,0.0,else
+Unidentified Reason for Stop,consensual_encounter_resulting_in_search_proportion,0.0,else
+Consensual Encounter Resulting in Search,investigtion_to_determine_whether_person_was_truant_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,investigtion_to_determine_whether_person_was_truant_proportion,100.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,investigtion_to_determine_whether_person_was_truant_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,investigtion_to_determine_whether_person_was_truant_proportion,0.0,else
+Possible Conduct Under Education Code,investigtion_to_determine_whether_person_was_truant_proportion,0.0,else
+Reasonable Suspicion,investigtion_to_determine_whether_person_was_truant_proportion,0.0,else
+Traffic Violation,investigtion_to_determine_whether_person_was_truant_proportion,0.0,else
+Unidentified Reason for Stop,investigtion_to_determine_whether_person_was_truant_proportion,0.0,else
+Consensual Encounter Resulting in Search,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,100.0,else
+Parole/Probation/PRCS/Mandatory Supervision,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,0.0,else
+Possible Conduct Under Education Code,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,0.0,else
+Reasonable Suspicion,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,0.0,else
+Traffic Violation,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,0.0,else
+Unidentified Reason for Stop,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,0.0,else
+Consensual Encounter Resulting in Search,parole_probation_PRCS_mandatory_supervision_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,parole_probation_PRCS_mandatory_supervision_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,parole_probation_PRCS_mandatory_supervision_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,parole_probation_PRCS_mandatory_supervision_proportion,100.0,else
+Possible Conduct Under Education Code,parole_probation_PRCS_mandatory_supervision_proportion,0.0,else
+Reasonable Suspicion,parole_probation_PRCS_mandatory_supervision_proportion,0.0,else
+Traffic Violation,parole_probation_PRCS_mandatory_supervision_proportion,0.0,else
+Unidentified Reason for Stop,parole_probation_PRCS_mandatory_supervision_proportion,0.0,else
+Consensual Encounter Resulting in Search,possible_conduct_under_education_code_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,possible_conduct_under_education_code_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,possible_conduct_under_education_code_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,possible_conduct_under_education_code_proportion,0.0,else
+Possible Conduct Under Education Code,possible_conduct_under_education_code_proportion,100.0,else
+Reasonable Suspicion,possible_conduct_under_education_code_proportion,0.0,else
+Traffic Violation,possible_conduct_under_education_code_proportion,0.0,else
+Unidentified Reason for Stop,possible_conduct_under_education_code_proportion,0.0,else
+Consensual Encounter Resulting in Search,reasonable_suspicion_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,reasonable_suspicion_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,reasonable_suspicion_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,reasonable_suspicion_proportion,0.0,else
+Possible Conduct Under Education Code,reasonable_suspicion_proportion,0.0,else
+Reasonable Suspicion,reasonable_suspicion_proportion,100.0,else
+Traffic Violation,reasonable_suspicion_proportion,0.0,else
+Unidentified Reason for Stop,reasonable_suspicion_proportion,0.0,else
+Consensual Encounter Resulting in Search,traffic_violation_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,traffic_violation_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,traffic_violation_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,traffic_violation_proportion,0.0,else
+Possible Conduct Under Education Code,traffic_violation_proportion,0.0,else
+Reasonable Suspicion,traffic_violation_proportion,0.0,else
+Traffic Violation,traffic_violation_proportion,100.0,else
+Unidentified Reason for Stop,traffic_violation_proportion,0.0,else
+Consensual Encounter Resulting in Search,unidentified_reason_for_stop_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,unidentified_reason_for_stop_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,unidentified_reason_for_stop_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,unidentified_reason_for_stop_proportion,0.0,else
+Possible Conduct Under Education Code,unidentified_reason_for_stop_proportion,0.0,else
+Reasonable Suspicion,unidentified_reason_for_stop_proportion,0.0,else
+Traffic Violation,unidentified_reason_for_stop_proportion,0.0,else
+Unidentified Reason for Stop,unidentified_reason_for_stop_proportion,100.0,else
+Consensual Encounter Resulting in Search,determine_whether_student_violated_school_policy_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,determine_whether_student_violated_school_policy_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,determine_whether_student_violated_school_policy_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,determine_whether_student_violated_school_policy_proportion,0.0,else
+Possible Conduct Under Education Code,determine_whether_student_violated_school_policy_proportion,0.0,else
+Reasonable Suspicion,determine_whether_student_violated_school_policy_proportion,0.0,else
+Traffic Violation,determine_whether_student_violated_school_policy_proportion,0.0,else
+Unidentified Reason for Stop,determine_whether_student_violated_school_policy_proportion,0.0,else
+Consensual Encounter Resulting in Search,male_proportion,74.09638554216868,else
+Investigtion to Determine whether Person was Truant,male_proportion,68.75,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,male_proportion,82.03592814371258,else
+Parole/Probation/PRCS/Mandatory Supervision,male_proportion,91.91489361702128,else
+Possible Conduct Under Education Code,male_proportion,100.0,else
+Reasonable Suspicion,male_proportion,69.75254087494477,else
+Traffic Violation,male_proportion,70.76479384746848,else
+Unidentified Reason for Stop,male_proportion,78.94736842105263,else
+Consensual Encounter Resulting in Search,female_proportion,25.903614457831324,else
+Investigtion to Determine whether Person was Truant,female_proportion,31.25,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,female_proportion,17.864271457085827,else
+Parole/Probation/PRCS/Mandatory Supervision,female_proportion,8.085106382978724,else
+Possible Conduct Under Education Code,female_proportion,0.0,else
+Reasonable Suspicion,female_proportion,30.07070260715864,else
+Traffic Violation,female_proportion,29.149754325998718,else
+Unidentified Reason for Stop,female_proportion,21.052631578947366,else
+Consensual Encounter Resulting in Search,unidentified_gender_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,unidentified_gender_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,unidentified_gender_proportion,0.09980039920159679,else
+Parole/Probation/PRCS/Mandatory Supervision,unidentified_gender_proportion,0.0,else
+Possible Conduct Under Education Code,unidentified_gender_proportion,0.0,else
+Reasonable Suspicion,unidentified_gender_proportion,0.06628369421122404,else
+Traffic Violation,unidentified_gender_proportion,0.03204443494979705,else
+Unidentified Reason for Stop,unidentified_gender_proportion,0.0,else
+Consensual Encounter Resulting in Search,gender_nonconforming_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,gender_nonconforming_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,gender_nonconforming_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,gender_nonconforming_proportion,0.0,else
+Possible Conduct Under Education Code,gender_nonconforming_proportion,0.0,else
+Reasonable Suspicion,gender_nonconforming_proportion,0.11047282368537341,else
+Traffic Violation,gender_nonconforming_proportion,0.05340739158299509,else
+Unidentified Reason for Stop,gender_nonconforming_proportion,0.0,else
+Consensual Encounter Resulting in Search,BIPOC_proportion,81.92771084337349,else
+Investigtion to Determine whether Person was Truant,BIPOC_proportion,90.625,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,BIPOC_proportion,93.41317365269461,else
+Parole/Probation/PRCS/Mandatory Supervision,BIPOC_proportion,94.46808510638299,else
+Possible Conduct Under Education Code,BIPOC_proportion,100.0,else
+Reasonable Suspicion,BIPOC_proportion,85.88157313300928,else
+Traffic Violation,BIPOC_proportion,86.7976928006836,else
+Unidentified Reason for Stop,BIPOC_proportion,84.21052631578947,else
+Consensual Encounter Resulting in Search,white_proportion,18.072289156626507,else
+Investigtion to Determine whether Person was Truant,white_proportion,9.375,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,white_proportion,6.58682634730539,else
+Parole/Probation/PRCS/Mandatory Supervision,white_proportion,5.531914893617021,else
+Possible Conduct Under Education Code,white_proportion,0.0,else
+Reasonable Suspicion,white_proportion,14.118426866990722,else
+Traffic Violation,white_proportion,13.202307199316385,else
+Unidentified Reason for Stop,white_proportion,15.789473684210526,else
+Consensual Encounter Resulting in Search,hispanic_or_latino_proportion,23.49397590361446,else
+Investigtion to Determine whether Person was Truant,hispanic_or_latino_proportion,34.375,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,hispanic_or_latino_proportion,19.760479041916167,else
+Parole/Probation/PRCS/Mandatory Supervision,hispanic_or_latino_proportion,19.574468085106382,else
+Possible Conduct Under Education Code,hispanic_or_latino_proportion,100.0,else
+Reasonable Suspicion,hispanic_or_latino_proportion,23.022536456031816,else
+Traffic Violation,hispanic_or_latino_proportion,27.84661397137364,else
+Unidentified Reason for Stop,hispanic_or_latino_proportion,15.789473684210526,else
+Consensual Encounter Resulting in Search,black_or_african_american_proportion,52.40963855421686,else
+Investigtion to Determine whether Person was Truant,black_or_african_american_proportion,50.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,black_or_african_american_proportion,65.76846307385229,else
+Parole/Probation/PRCS/Mandatory Supervision,black_or_african_american_proportion,65.53191489361701,else
+Possible Conduct Under Education Code,black_or_african_american_proportion,0.0,else
+Reasonable Suspicion,black_or_african_american_proportion,55.96553247901016,else
+Traffic Violation,black_or_african_american_proportion,46.250801110873745,else
+Unidentified Reason for Stop,black_or_african_american_proportion,57.89473684210527,else
+Consensual Encounter Resulting in Search,asian_proportion,3.0120481927710845,else
+Investigtion to Determine whether Person was Truant,asian_proportion,6.25,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,asian_proportion,3.792415169660679,else
+Parole/Probation/PRCS/Mandatory Supervision,asian_proportion,5.957446808510639,else
+Possible Conduct Under Education Code,asian_proportion,0.0,else
+Reasonable Suspicion,asian_proportion,3.4688466637207247,else
+Traffic Violation,asian_proportion,6.857509079256569,else
+Unidentified Reason for Stop,asian_proportion,5.263157894736842,else
+Consensual Encounter Resulting in Search,multiracial_proportion,0.6024096385542169,else
+Investigtion to Determine whether Person was Truant,multiracial_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,multiracial_proportion,1.2974051896207583,else
+Parole/Probation/PRCS/Mandatory Supervision,multiracial_proportion,2.127659574468085,else
+Possible Conduct Under Education Code,multiracial_proportion,0.0,else
+Reasonable Suspicion,multiracial_proportion,0.780674620709972,else
+Traffic Violation,multiracial_proportion,1.6876735740226447,else
+Unidentified Reason for Stop,multiracial_proportion,0.0,else
+Consensual Encounter Resulting in Search,middle_eastern_or_south_asian_proportion,1.2048192771084338,else
+Investigtion to Determine whether Person was Truant,middle_eastern_or_south_asian_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,middle_eastern_or_south_asian_proportion,1.097804391217565,else
+Parole/Probation/PRCS/Mandatory Supervision,middle_eastern_or_south_asian_proportion,1.276595744680851,else
+Possible Conduct Under Education Code,middle_eastern_or_south_asian_proportion,0.0,else
+Reasonable Suspicion,middle_eastern_or_south_asian_proportion,1.7012814847547502,else
+Traffic Violation,middle_eastern_or_south_asian_proportion,3.5248878444776754,else
+Unidentified Reason for Stop,middle_eastern_or_south_asian_proportion,5.263157894736842,else
+Consensual Encounter Resulting in Search,pacific_islander_proportion,1.2048192771084338,else
+Investigtion to Determine whether Person was Truant,pacific_islander_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,pacific_islander_proportion,1.1976047904191618,else
+Parole/Probation/PRCS/Mandatory Supervision,pacific_islander_proportion,0.0,else
+Possible Conduct Under Education Code,pacific_islander_proportion,0.0,else
+Reasonable Suspicion,pacific_islander_proportion,0.7954043305346884,else
+Traffic Violation,pacific_islander_proportion,0.587481307412946,else
+Unidentified Reason for Stop,pacific_islander_proportion,0.0,else
+Consensual Encounter Resulting in Search,native_american_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,native_american_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,native_american_proportion,0.499001996007984,else
+Parole/Probation/PRCS/Mandatory Supervision,native_american_proportion,0.0,else
+Possible Conduct Under Education Code,native_american_proportion,0.0,else
+Reasonable Suspicion,native_american_proportion,0.14729709824716453,else
+Traffic Violation,native_american_proportion,0.04272591326639607,else
+Unidentified Reason for Stop,native_american_proportion,0.0,else
+Consensual Encounter Resulting in Search,lgbt_proportion,1.8072289156626504,else
+Investigtion to Determine whether Person was Truant,lgbt_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,lgbt_proportion,0.499001996007984,else
+Parole/Probation/PRCS/Mandatory Supervision,lgbt_proportion,0.0,else
+Possible Conduct Under Education Code,lgbt_proportion,0.0,else
+Reasonable Suspicion,lgbt_proportion,1.03844454264251,else
+Traffic Violation,lgbt_proportion,0.2456740012817774,else
+Unidentified Reason for Stop,lgbt_proportion,0.0,else
+Consensual Encounter Resulting in Search,not_lgbt_proportion,98.19277108433735,else
+Investigtion to Determine whether Person was Truant,not_lgbt_proportion,100.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,not_lgbt_proportion,99.50099800399201,else
+Parole/Probation/PRCS/Mandatory Supervision,not_lgbt_proportion,100.0,else
+Possible Conduct Under Education Code,not_lgbt_proportion,100.0,else
+Reasonable Suspicion,not_lgbt_proportion,98.96155545735749,else
+Traffic Violation,not_lgbt_proportion,99.75432599871822,else
+Unidentified Reason for Stop,not_lgbt_proportion,100.0,else
+Consensual Encounter Resulting in Search,less_than_10_years_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,less_than_10_years_proportion,3.125,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,less_than_10_years_proportion,0.8982035928143712,else
+Parole/Probation/PRCS/Mandatory Supervision,less_than_10_years_proportion,0.0,else
+Possible Conduct Under Education Code,less_than_10_years_proportion,0.0,else
+Reasonable Suspicion,less_than_10_years_proportion,0.23567535719546326,else
+Traffic Violation,less_than_10_years_proportion,0.1174962614825892,else
+Unidentified Reason for Stop,less_than_10_years_proportion,0.0,else
+Consensual Encounter Resulting in Search,aged_10-20_proportion,21.084337349397593,else
+Investigtion to Determine whether Person was Truant,aged_10-20_proportion,50.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_10-20_proportion,20.459081836327346,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_10-20_proportion,18.29787234042553,else
+Possible Conduct Under Education Code,aged_10-20_proportion,100.0,else
+Reasonable Suspicion,aged_10-20_proportion,18.434231845632638,else
+Traffic Violation,aged_10-20_proportion,19.81414227729118,else
+Unidentified Reason for Stop,aged_10-20_proportion,26.31578947368421,else
+Consensual Encounter Resulting in Search,aged_21-30_proportion,37.34939759036144,else
+Investigtion to Determine whether Person was Truant,aged_21-30_proportion,18.75,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_21-30_proportion,39.82035928143712,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_21-30_proportion,39.148936170212764,else
+Possible Conduct Under Education Code,aged_21-30_proportion,0.0,else
+Reasonable Suspicion,aged_21-30_proportion,36.117248490204744,else
+Traffic Violation,aged_21-30_proportion,41.12369151890622,else
+Unidentified Reason for Stop,aged_21-30_proportion,26.31578947368421,else
+Consensual Encounter Resulting in Search,aged_31-40_proportion,19.27710843373494,else
+Investigtion to Determine whether Person was Truant,aged_31-40_proportion,15.625,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_31-40_proportion,20.159680638722556,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_31-40_proportion,20.425531914893615,else
+Possible Conduct Under Education Code,aged_31-40_proportion,0.0,else
+Reasonable Suspicion,aged_31-40_proportion,22.529091176903815,else
+Traffic Violation,aged_31-40_proportion,21.64067506942961,else
+Unidentified Reason for Stop,aged_31-40_proportion,21.052631578947366,else
+Consensual Encounter Resulting in Search,aged_41-50_proportion,16.867469879518072,else
+Investigtion to Determine whether Person was Truant,aged_41-50_proportion,6.25,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_41-50_proportion,11.377245508982035,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_41-50_proportion,12.76595744680851,else
+Possible Conduct Under Education Code,aged_41-50_proportion,0.0,else
+Reasonable Suspicion,aged_41-50_proportion,14.007954043305345,else
+Traffic Violation,aged_41-50_proportion,11.995300149540697,else
+Unidentified Reason for Stop,aged_41-50_proportion,26.31578947368421,else
+Consensual Encounter Resulting in Search,aged_51-60_proportion,4.216867469879518,else
+Investigtion to Determine whether Person was Truant,aged_51-60_proportion,6.25,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_51-60_proportion,5.888223552894212,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_51-60_proportion,4.680851063829787,else
+Possible Conduct Under Education Code,aged_51-60_proportion,0.0,else
+Reasonable Suspicion,aged_51-60_proportion,6.090735012520254,else
+Traffic Violation,aged_51-60_proportion,3.9414654988250373,else
+Unidentified Reason for Stop,aged_51-60_proportion,0.0,else
+Consensual Encounter Resulting in Search,aged_61-70_proportion,0.6024096385542169,else
+Investigtion to Determine whether Person was Truant,aged_61-70_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_61-70_proportion,1.2974051896207583,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_61-70_proportion,2.9787234042553195,else
+Possible Conduct Under Education Code,aged_61-70_proportion,0.0,else
+Reasonable Suspicion,aged_61-70_proportion,1.3035793194874061,else
+Traffic Violation,aged_61-70_proportion,0.7263405255287332,else
+Unidentified Reason for Stop,aged_61-70_proportion,0.0,else
+Consensual Encounter Resulting in Search,aged_71-80_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,aged_71-80_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_71-80_proportion,0.09980039920159679,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_71-80_proportion,1.276595744680851,else
+Possible Conduct Under Education Code,aged_71-80_proportion,0.0,else
+Reasonable Suspicion,aged_71-80_proportion,0.5891883929886581,else
+Traffic Violation,aged_71-80_proportion,0.2883999145481735,else
+Unidentified Reason for Stop,aged_71-80_proportion,0.0,else
+Consensual Encounter Resulting in Search,aged_81-90_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,aged_81-90_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_81-90_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_81-90_proportion,0.425531914893617,else
+Possible Conduct Under Education Code,aged_81-90_proportion,0.0,else
+Reasonable Suspicion,aged_81-90_proportion,0.14729709824716453,else
+Traffic Violation,aged_81-90_proportion,0.0,else
+Unidentified Reason for Stop,aged_81-90_proportion,0.0,else
+Consensual Encounter Resulting in Search,aged_91-100_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,aged_91-100_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aged_91-100_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,aged_91-100_proportion,0.0,else
+Possible Conduct Under Education Code,aged_91-100_proportion,0.0,else
+Reasonable Suspicion,aged_91-100_proportion,0.014729709824716454,else
+Traffic Violation,aged_91-100_proportion,0.0,else
+Unidentified Reason for Stop,aged_91-100_proportion,0.0,else
+Consensual Encounter Resulting in Search,more_than_100_years_proportion,0.6024096385542169,else
+Investigtion to Determine whether Person was Truant,more_than_100_years_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,more_than_100_years_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,more_than_100_years_proportion,0.0,else
+Possible Conduct Under Education Code,more_than_100_years_proportion,0.0,else
+Reasonable Suspicion,more_than_100_years_proportion,0.5302695536897923,else
+Traffic Violation,more_than_100_years_proportion,0.35248878444776754,else
+Unidentified Reason for Stop,more_than_100_years_proportion,0.0,else
+Consensual Encounter Resulting in Search,full_english_fluency_proportion,87.95180722891565,else
+Investigtion to Determine whether Person was Truant,full_english_fluency_proportion,96.875,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,full_english_fluency_proportion,94.51097804391217,else
+Parole/Probation/PRCS/Mandatory Supervision,full_english_fluency_proportion,96.17021276595744,else
+Possible Conduct Under Education Code,full_english_fluency_proportion,100.0,else
+Reasonable Suspicion,full_english_fluency_proportion,91.83237590219473,else
+Traffic Violation,full_english_fluency_proportion,93.4949797051912,else
+Unidentified Reason for Stop,full_english_fluency_proportion,100.0,else
+Consensual Encounter Resulting in Search,limited_english_fluency_proportion,12.048192771084338,else
+Investigtion to Determine whether Person was Truant,limited_english_fluency_proportion,3.125,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,limited_english_fluency_proportion,5.489021956087824,else
+Parole/Probation/PRCS/Mandatory Supervision,limited_english_fluency_proportion,3.829787234042553,else
+Possible Conduct Under Education Code,limited_english_fluency_proportion,0.0,else
+Reasonable Suspicion,limited_english_fluency_proportion,8.167624097805273,else
+Traffic Violation,limited_english_fluency_proportion,6.505020294808801,else
+Unidentified Reason for Stop,limited_english_fluency_proportion,0.0,else
+Consensual Encounter Resulting in Search,disabled_proportion,21.084337349397593,else
+Investigtion to Determine whether Person was Truant,disabled_proportion,15.625,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,disabled_proportion,3.493013972055888,else
+Parole/Probation/PRCS/Mandatory Supervision,disabled_proportion,4.25531914893617,else
+Possible Conduct Under Education Code,disabled_proportion,100.0,else
+Reasonable Suspicion,disabled_proportion,18.65517749300339,else
+Traffic Violation,disabled_proportion,0.598162785729545,else
+Unidentified Reason for Stop,disabled_proportion,0.0,else
+Consensual Encounter Resulting in Search,not_disabled_proportion,78.91566265060241,else
+Investigtion to Determine whether Person was Truant,not_disabled_proportion,84.375,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,not_disabled_proportion,96.50698602794411,else
+Parole/Probation/PRCS/Mandatory Supervision,not_disabled_proportion,95.74468085106383,else
+Possible Conduct Under Education Code,not_disabled_proportion,0.0,else
+Reasonable Suspicion,not_disabled_proportion,81.34482250699662,else
+Traffic Violation,not_disabled_proportion,99.40183721427044,else
+Unidentified Reason for Stop,not_disabled_proportion,100.0,else
+Consensual Encounter Resulting in Search,mental_health_condition_proportion,15.66265060240964,else
+Investigtion to Determine whether Person was Truant,mental_health_condition_proportion,12.5,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,mental_health_condition_proportion,1.6966067864271457,else
+Parole/Probation/PRCS/Mandatory Supervision,mental_health_condition_proportion,0.851063829787234,else
+Possible Conduct Under Education Code,mental_health_condition_proportion,0.0,else
+Reasonable Suspicion,mental_health_condition_proportion,15.289438798055679,else
+Traffic Violation,mental_health_condition_proportion,0.07477034821619312,else
+Unidentified Reason for Stop,mental_health_condition_proportion,0.0,else
+Consensual Encounter Resulting in Search,speech_impairment_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,speech_impairment_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,speech_impairment_proportion,0.7984031936127743,else
+Parole/Probation/PRCS/Mandatory Supervision,speech_impairment_proportion,0.425531914893617,else
+Possible Conduct Under Education Code,speech_impairment_proportion,0.0,else
+Reasonable Suspicion,speech_impairment_proportion,0.8395934600088379,else
+Traffic Violation,speech_impairment_proportion,0.27771843623157444,else
+Unidentified Reason for Stop,speech_impairment_proportion,0.0,else
+Consensual Encounter Resulting in Search,multiple_disability_proportion,3.0120481927710845,else
+Investigtion to Determine whether Person was Truant,multiple_disability_proportion,3.125,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,multiple_disability_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,multiple_disability_proportion,1.276595744680851,else
+Possible Conduct Under Education Code,multiple_disability_proportion,0.0,else
+Reasonable Suspicion,multiple_disability_proportion,1.296214464575048,else
+Traffic Violation,multiple_disability_proportion,0.0,else
+Unidentified Reason for Stop,multiple_disability_proportion,0.0,else
+Consensual Encounter Resulting in Search,deafness_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,deafness_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,deafness_proportion,0.19960079840319359,else
+Parole/Probation/PRCS/Mandatory Supervision,deafness_proportion,0.0,else
+Possible Conduct Under Education Code,deafness_proportion,0.0,else
+Reasonable Suspicion,deafness_proportion,0.11047282368537341,else
+Traffic Violation,deafness_proportion,0.0640888698995941,else
+Unidentified Reason for Stop,deafness_proportion,0.0,else
+Consensual Encounter Resulting in Search,development_disability_proportion,0.6024096385542169,else
+Investigtion to Determine whether Person was Truant,development_disability_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,development_disability_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,development_disability_proportion,0.0,else
+Possible Conduct Under Education Code,development_disability_proportion,0.0,else
+Reasonable Suspicion,development_disability_proportion,0.3166887612314037,else
+Traffic Violation,development_disability_proportion,0.021362956633198035,else
+Unidentified Reason for Stop,development_disability_proportion,0.0,else
+Consensual Encounter Resulting in Search,blind_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,blind_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,blind_proportion,0.29940119760479045,else
+Parole/Probation/PRCS/Mandatory Supervision,blind_proportion,0.425531914893617,else
+Possible Conduct Under Education Code,blind_proportion,0.0,else
+Reasonable Suspicion,blind_proportion,0.14729709824716453,else
+Traffic Violation,blind_proportion,0.021362956633198035,else
+Unidentified Reason for Stop,blind_proportion,0.0,else
+Consensual Encounter Resulting in Search,hyperactivity_proportion,0.0,else
+Investigtion to Determine whether Person was Truant,hyperactivity_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,hyperactivity_proportion,0.0,else
+Parole/Probation/PRCS/Mandatory Supervision,hyperactivity_proportion,0.0,else
+Possible Conduct Under Education Code,hyperactivity_proportion,100.0,else
+Reasonable Suspicion,hyperactivity_proportion,0.0,else
+Traffic Violation,hyperactivity_proportion,0.0,else
+Unidentified Reason for Stop,hyperactivity_proportion,0.0,else
+Consensual Encounter Resulting in Search,other_disability_proportion,1.8072289156626504,else
+Investigtion to Determine whether Person was Truant,other_disability_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,other_disability_proportion,0.499001996007984,else
+Parole/Probation/PRCS/Mandatory Supervision,other_disability_proportion,1.276595744680851,else
+Possible Conduct Under Education Code,other_disability_proportion,0.0,else
+Reasonable Suspicion,other_disability_proportion,0.6554720871998821,else
+Traffic Violation,other_disability_proportion,0.13885921811578722,else
+Unidentified Reason for Stop,other_disability_proportion,0.0,else
+Consensual Encounter Resulting in Search,jan_2019_proportion,4.216867469879518,else
+Investigtion to Determine whether Person was Truant,jan_2019_proportion,3.125,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,jan_2019_proportion,7.884231536926148,else
+Parole/Probation/PRCS/Mandatory Supervision,jan_2019_proportion,6.808510638297872,else
+Possible Conduct Under Education Code,jan_2019_proportion,0.0,else
+Reasonable Suspicion,jan_2019_proportion,8.594785682722051,else
+Traffic Violation,jan_2019_proportion,7.573168126468703,else
+Unidentified Reason for Stop,jan_2019_proportion,0.0,else
+Consensual Encounter Resulting in Search,feb_2019_proportion,15.66265060240964,else
+Investigtion to Determine whether Person was Truant,feb_2019_proportion,3.125,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,feb_2019_proportion,6.986027944111776,else
+Parole/Probation/PRCS/Mandatory Supervision,feb_2019_proportion,10.212765957446807,else
+Possible Conduct Under Education Code,feb_2019_proportion,0.0,else
+Reasonable Suspicion,feb_2019_proportion,7.954043305346885,else
+Traffic Violation,feb_2019_proportion,7.84020508438368,else
+Unidentified Reason for Stop,feb_2019_proportion,15.789473684210526,else
+Consensual Encounter Resulting in Search,mar_2019_proportion,10.240963855421686,else
+Investigtion to Determine whether Person was Truant,mar_2019_proportion,6.25,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,mar_2019_proportion,9.081836327345309,else
+Parole/Probation/PRCS/Mandatory Supervision,mar_2019_proportion,15.319148936170212,else
+Possible Conduct Under Education Code,mar_2019_proportion,0.0,else
+Reasonable Suspicion,mar_2019_proportion,8.160259242892915,else
+Traffic Violation,mar_2019_proportion,9.410382396923735,else
+Unidentified Reason for Stop,mar_2019_proportion,15.789473684210526,else
+Consensual Encounter Resulting in Search,apr_2019_proportion,10.843373493975903,else
+Investigtion to Determine whether Person was Truant,apr_2019_proportion,12.5,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,apr_2019_proportion,7.285429141716566,else
+Parole/Probation/PRCS/Mandatory Supervision,apr_2019_proportion,8.51063829787234,else
+Possible Conduct Under Education Code,apr_2019_proportion,0.0,else
+Reasonable Suspicion,apr_2019_proportion,8.955663573427604,else
+Traffic Violation,apr_2019_proportion,9.250160222174749,else
+Unidentified Reason for Stop,apr_2019_proportion,10.526315789473683,else
+Consensual Encounter Resulting in Search,may_2019_proportion,10.240963855421686,else
+Investigtion to Determine whether Person was Truant,may_2019_proportion,12.5,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,may_2019_proportion,11.27744510978044,else
+Parole/Probation/PRCS/Mandatory Supervision,may_2019_proportion,12.340425531914894,else
+Possible Conduct Under Education Code,may_2019_proportion,0.0,else
+Reasonable Suspicion,may_2019_proportion,8.506407423773751,else
+Traffic Violation,may_2019_proportion,8.6947233497116,else
+Unidentified Reason for Stop,may_2019_proportion,10.526315789473683,else
+Consensual Encounter Resulting in Search,jun_2019_proportion,12.650602409638553,else
+Investigtion to Determine whether Person was Truant,jun_2019_proportion,9.375,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,jun_2019_proportion,7.684630738522954,else
+Parole/Probation/PRCS/Mandatory Supervision,jun_2019_proportion,13.191489361702127,else
+Possible Conduct Under Education Code,jun_2019_proportion,0.0,else
+Reasonable Suspicion,jun_2019_proportion,8.071880983944617,else
+Traffic Violation,jun_2019_proportion,10.8737449262978,else
+Unidentified Reason for Stop,jun_2019_proportion,10.526315789473683,else
+Consensual Encounter Resulting in Search,jul_2019_proportion,7.83132530120482,else
+Investigtion to Determine whether Person was Truant,jul_2019_proportion,18.75,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,jul_2019_proportion,10.27944111776447,else
+Parole/Probation/PRCS/Mandatory Supervision,jul_2019_proportion,12.76595744680851,else
+Possible Conduct Under Education Code,jul_2019_proportion,0.0,else
+Reasonable Suspicion,jul_2019_proportion,9.832081307998232,else
+Traffic Violation,jul_2019_proportion,11.557359538560137,else
+Unidentified Reason for Stop,jul_2019_proportion,5.263157894736842,else
+Consensual Encounter Resulting in Search,aug_2019_proportion,9.63855421686747,else
+Investigtion to Determine whether Person was Truant,aug_2019_proportion,0.0,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,aug_2019_proportion,9.481037924151696,else
+Parole/Probation/PRCS/Mandatory Supervision,aug_2019_proportion,8.085106382978724,else
+Possible Conduct Under Education Code,aug_2019_proportion,0.0,else
+Reasonable Suspicion,aug_2019_proportion,9.154514656061275,else
+Traffic Violation,aug_2019_proportion,10.328989532151251,else
+Unidentified Reason for Stop,aug_2019_proportion,10.526315789473683,else
+Consensual Encounter Resulting in Search,sep_2019_proportion,4.216867469879518,else
+Investigtion to Determine whether Person was Truant,sep_2019_proportion,12.5,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,sep_2019_proportion,9.081836327345309,else
+Parole/Probation/PRCS/Mandatory Supervision,sep_2019_proportion,4.25531914893617,else
+Possible Conduct Under Education Code,sep_2019_proportion,0.0,else
+Reasonable Suspicion,sep_2019_proportion,8.270732066578288,else
+Traffic Violation,sep_2019_proportion,6.761375774407178,else
+Unidentified Reason for Stop,sep_2019_proportion,0.0,else
+Consensual Encounter Resulting in Search,oct_2019_proportion,5.421686746987952,else
+Investigtion to Determine whether Person was Truant,oct_2019_proportion,9.375,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,oct_2019_proportion,8.08383233532934,else
+Parole/Probation/PRCS/Mandatory Supervision,oct_2019_proportion,2.127659574468085,else
+Possible Conduct Under Education Code,oct_2019_proportion,0.0,else
+Reasonable Suspicion,oct_2019_proportion,7.512152010605392,else
+Traffic Violation,oct_2019_proportion,6.173894466994232,else
+Unidentified Reason for Stop,oct_2019_proportion,5.263157894736842,else
+Consensual Encounter Resulting in Search,nov_2019_proportion,4.819277108433735,else
+Investigtion to Determine whether Person was Truant,nov_2019_proportion,6.25,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,nov_2019_proportion,5.888223552894212,else
+Parole/Probation/PRCS/Mandatory Supervision,nov_2019_proportion,3.404255319148936,else
+Possible Conduct Under Education Code,nov_2019_proportion,100.0,else
+Reasonable Suspicion,nov_2019_proportion,7.615259979378407,else
+Traffic Violation,nov_2019_proportion,6.547746208075197,else
+Unidentified Reason for Stop,nov_2019_proportion,5.263157894736842,else
+Consensual Encounter Resulting in Search,dec_2019_proportion,4.216867469879518,else
+Investigtion to Determine whether Person was Truant,dec_2019_proportion,6.25,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,dec_2019_proportion,6.986027944111776,else
+Parole/Probation/PRCS/Mandatory Supervision,dec_2019_proportion,2.9787234042553195,else
+Possible Conduct Under Education Code,dec_2019_proportion,0.0,else
+Reasonable Suspicion,dec_2019_proportion,7.372219767270585,else
+Traffic Violation,dec_2019_proportion,4.9882503738517405,else
+Unidentified Reason for Stop,dec_2019_proportion,10.526315789473683,else
+Consensual Encounter Resulting in Search,handcuffed_proportion,33.734939759036145,else
+Investigtion to Determine whether Person was Truant,handcuffed_proportion,21.875,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,handcuffed_proportion,83.63273453093812,else
+Parole/Probation/PRCS/Mandatory Supervision,handcuffed_proportion,65.53191489361701,else
+Possible Conduct Under Education Code,handcuffed_proportion,0.0,else
+Reasonable Suspicion,handcuffed_proportion,57.36485491235823,else
+Traffic Violation,handcuffed_proportion,8.192693868831446,else
+Unidentified Reason for Stop,handcuffed_proportion,15.789473684210526,else
+Consensual Encounter Resulting in Search,not_handcuffed_proportion,66.26506024096386,else
+Investigtion to Determine whether Person was Truant,not_handcuffed_proportion,78.125,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,not_handcuffed_proportion,16.367265469061877,else
+Parole/Probation/PRCS/Mandatory Supervision,not_handcuffed_proportion,34.46808510638298,else
+Possible Conduct Under Education Code,not_handcuffed_proportion,100.0,else
+Reasonable Suspicion,not_handcuffed_proportion,42.635145087641774,else
+Traffic Violation,not_handcuffed_proportion,91.80730613116856,else
+Unidentified Reason for Stop,not_handcuffed_proportion,84.21052631578947,else
+Consensual Encounter Resulting in Search,drugs_found_proportion,13.253012048192772,else
+Investigtion to Determine whether Person was Truant,drugs_found_proportion,3.125,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,drugs_found_proportion,10.379241516966067,else
+Parole/Probation/PRCS/Mandatory Supervision,drugs_found_proportion,17.02127659574468,else
+Possible Conduct Under Education Code,drugs_found_proportion,0.0,else
+Reasonable Suspicion,drugs_found_proportion,5.324790101634997,else
+Traffic Violation,drugs_found_proportion,5.75731681264687,else
+Unidentified Reason for Stop,drugs_found_proportion,0.0,else
+Consensual Encounter Resulting in Search,drugs_not_found_proportion,86.74698795180723,else
+Investigtion to Determine whether Person was Truant,drugs_not_found_proportion,96.875,else
+Knowledge of Outstanding Arrest Warrant or Wanted Person,drugs_not_found_proportion,89.62075848303394,else
+Parole/Probation/PRCS/Mandatory Supervision,drugs_not_found_proportion,82.97872340425532,else
+Possible Conduct Under Education Code,drugs_not_found_proportion,100.0,else
+Reasonable Suspicion,drugs_not_found_proportion,94.675209898365,else
+Traffic Violation,drugs_not_found_proportion,94.24268318735312,else
+Unidentified Reason for Stop,drugs_not_found_proportion,100.0,else

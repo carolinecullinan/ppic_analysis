@@ -1,0 +1,253 @@
+ads_handcuffed,variable,value,category
+Handcuffed,BIPOC,8621.0,Race
+Not Handcuffed,BIPOC,12506.0,Race
+Handcuffed,white,993.0,Race
+Not Handcuffed,white,2275.0,Race
+Handcuffed,Hispanic or Latino,2391.0,Race
+Not Handcuffed,Hispanic or Latino,3640.0,Race
+Handcuffed,Black or African American,5635.0,Race
+Not Handcuffed,Black or African American,7221.0,Race
+Handcuffed,Asian,303.0,Race
+Not Handcuffed,Asian,870.0,Race
+Handcuffed,Multiracial,72.0,Race
+Not Handcuffed,Multiracial,211.0,Race
+Handcuffed,Middle Eastern or South Asian,129.0,Race
+Not Handcuffed,Middle Eastern or South Asian,449.0,Race
+Handcuffed,Pacific Islander,79.0,Race
+Not Handcuffed,Pacific Islander,98.0,Race
+Handcuffed,Native American,12.0,Race
+Not Handcuffed,Native American,17.0,Race
+Handcuffed,male,7403.0,Gender
+Not Handcuffed,male,9892.0,Gender
+Handcuffed,female,2203.0,Gender
+Not Handcuffed,female,4864.0,Gender
+Handcuffed,unidentified gender,4.0,Gender
+Not Handcuffed,unidentified gender,9.0,Gender
+Handcuffed,gender nonconforming,4.0,Gender
+Not Handcuffed,gender nonconforming,16.0,Gender
+Handcuffed,lgbt,87.0,LGBT
+Not Handcuffed,lgbt,85.0,LGBT
+Handcuffed,not lgbt,9527.0,LGBT
+Not Handcuffed,not lgbt,14696.0,LGBT
+Handcuffed,less than 10 years,5.0,Age Group
+Not Handcuffed,less than 10 years,48.0,Age Group
+Handcuffed,aged 10-20,1841.0,Age Group
+Not Handcuffed,aged 10-20,2822.0,Age Group
+Handcuffed,aged 21-30,3757.0,Age Group
+Not Handcuffed,aged 21-30,5561.0,Age Group
+Handcuffed,aged 31-40,2206.0,Age Group
+Not Handcuffed,aged 31-40,3170.0,Age Group
+Handcuffed,aged 41-50,1213.0,Age Group
+Not Handcuffed,aged 41-50,1991.0,Age Group
+Handcuffed,aged 51-60,475.0,Age Group
+Not Handcuffed,aged 51-60,800.0,Age Group
+Handcuffed,aged 61-70,81.0,Age Group
+Not Handcuffed,aged 61-70,185.0,Age Group
+Handcuffed,aged 71-80,13.0,Age Group
+Not Handcuffed,aged 71-80,98.0,Age Group
+Handcuffed,aged 81-90,4.0,Age Group
+Not Handcuffed,aged 81-90,17.0,Age Group
+Handcuffed,aged 91-100,0.0,Age Group
+Not Handcuffed,aged 91-100,2.0,Age Group
+Handcuffed,more than 100 years,19.0,Age Group
+Not Handcuffed,more than 100 years,87.0,Age Group
+Handcuffed,full english fluency,8818.0,English Fluency Level
+Not Handcuffed,full english fluency,13774.0,English Fluency Level
+Handcuffed,limited english fluency,796.0,English Fluency Level
+Not Handcuffed,limited english fluency,1007.0,English Fluency Level
+Handcuffed,disabled,1212.0,Disability
+Not Handcuffed,disabled,1463.0,Disability
+Handcuffed,not disabled,8402.0,Disability
+Not Handcuffed,not disabled,13318.0,Disability
+Handcuffed,mental health condition,968.0,Disability
+Not Handcuffed,mental health condition,1164.0,Disability
+Handcuffed,speech impairment,92.0,Disability
+Not Handcuffed,speech impairment,57.0,Disability
+Handcuffed,multiple disability,63.0,Disability
+Not Handcuffed,multiple disability,122.0,Disability
+Handcuffed,deafness,12.0,Disability
+Not Handcuffed,deafness,11.0,Disability
+Handcuffed,development disability,15.0,Disability
+Not Handcuffed,development disability,31.0,Disability
+Handcuffed,blind,11.0,Disability
+Not Handcuffed,blind,15.0,Disability
+Handcuffed,hyperactivity,0.0,Disability
+Not Handcuffed,hyperactivity,1.0,Disability
+Handcuffed,other disability,51.0,Disability
+Not Handcuffed,other disability,62.0,Disability
+Handcuffed,traffic violation,767.0,Police Stop Reason
+Not Handcuffed,traffic violation,8595.0,Police Stop Reason
+Handcuffed,reasonable suspicion,7789.0,Police Stop Reason
+Not Handcuffed,reasonable suspicion,5789.0,Police Stop Reason
+Handcuffed,knowledge of outstanding arrest warrant or wanted person,838.0,Police Stop Reason
+Not Handcuffed,knowledge of outstanding arrest warrant or wanted person,164.0,Police Stop Reason
+Handcuffed,consensual encounter resulting in search,56.0,Police Stop Reason
+Not Handcuffed,consensual encounter resulting in search,110.0,Police Stop Reason
+Handcuffed,parole/probation/PRCS/mandatory supervision,154.0,Police Stop Reason
+Not Handcuffed,parole/probation/PRCS/mandatory supervision,81.0,Police Stop Reason
+Handcuffed,investigtion to determine whether person was truant,7.0,Police Stop Reason
+Not Handcuffed,investigtion to determine whether person was truant,25.0,Police Stop Reason
+Handcuffed,possible conduct under education code,0.0,Police Stop Reason
+Not Handcuffed,possible conduct under education code,1.0,Police Stop Reason
+Handcuffed,unidentified reason for stop,3.0,Police Stop Reason
+Not Handcuffed,unidentified reason for stop,16.0,Police Stop Reason
+Handcuffed,determine whether student violated school policy,0.0,Police Stop Reason
+Not Handcuffed,determine whether student violated school policy,0.0,Police Stop Reason
+Handcuffed,jan_2019,766.0,else
+Not Handcuffed,jan_2019,1213.0,else
+Handcuffed,feb_2019,725.0,else
+Not Handcuffed,feb_2019,1213.0,else
+Handcuffed,mar_2019,792.0,else
+Not Handcuffed,mar_2019,1346.0,else
+Handcuffed,apr_2019,848.0,else
+Not Handcuffed,apr_2019,1351.0,else
+Handcuffed,may_2019,863.0,else
+Not Handcuffed,may_2019,1271.0,else
+Handcuffed,jun_2019,861.0,else
+Not Handcuffed,jun_2019,1387.0,else
+Handcuffed,jul_2019,933.0,else
+Not Handcuffed,jul_2019,1637.0,else
+Handcuffed,aug_2019,917.0,else
+Not Handcuffed,aug_2019,1425.0,else
+Handcuffed,sep_2019,794.0,else
+Not Handcuffed,sep_2019,1074.0,else
+Handcuffed,oct_2019,726.0,else
+Not Handcuffed,oct_2019,971.0,else
+Handcuffed,nov_2019,713.0,else
+Not Handcuffed,nov_2019,1013.0,else
+Handcuffed,dec_2019,676.0,else
+Not Handcuffed,dec_2019,880.0,else
+Handcuffed,handcuffed,9614.0,Handcuff Use
+Not Handcuffed,handcuffed,0.0,Handcuff Use
+Handcuffed,not handcuffed,0.0,Handcuff Use
+Not Handcuffed,not handcuffed,14781.0,Handcuff Use
+Handcuffed,drugs found,939.0,Finding of Drugs
+Not Handcuffed,drugs found,490.0,Finding of Drugs
+Handcuffed,drugs not found,8675.0,Finding of Drugs
+Not Handcuffed,drugs not found,14291.0,Finding of Drugs
+Handcuffed,consensual_encounter_resulting_in_search_proportion,0.5824838776783856,else
+Not Handcuffed,consensual_encounter_resulting_in_search_proportion,0.7441986333806915,else
+Handcuffed,investigtion_to_determine_whether_person_was_truant_proportion,0.0728104847097982,else
+Not Handcuffed,investigtion_to_determine_whether_person_was_truant_proportion,0.16913605304106621,else
+Handcuffed,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,8.716455169544414,else
+Not Handcuffed,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,1.1095325079493945,else
+Handcuffed,parole_probation_PRCS_mandatory_supervision_proportion,1.6018306636155606,else
+Not Handcuffed,parole_probation_PRCS_mandatory_supervision_proportion,0.5480008118530546,else
+Handcuffed,possible_conduct_under_education_code_proportion,0.0,else
+Not Handcuffed,possible_conduct_under_education_code_proportion,0.00676544212164265,else
+Handcuffed,reasonable_suspicion_proportion,81.01726648637404,else
+Not Handcuffed,reasonable_suspicion_proportion,39.165144442189295,else
+Handcuffed,traffic_violation_proportion,7.977948824630747,else
+Not Handcuffed,traffic_violation_proportion,58.14897503551857,else
+Handcuffed,unidentified_reason_for_stop_proportion,0.031204493447056374,else
+Not Handcuffed,unidentified_reason_for_stop_proportion,0.1082470739462824,else
+Handcuffed,determine_whether_student_violated_school_policy_proportion,0.0,else
+Not Handcuffed,determine_whether_student_violated_school_policy_proportion,0.0,else
+Handcuffed,male_proportion,77.00228832951946,else
+Not Handcuffed,male_proportion,66.92375346728909,else
+Handcuffed,female_proportion,22.914499687955065,else
+Not Handcuffed,female_proportion,32.907110479669846,else
+Handcuffed,unidentified_gender_proportion,0.04160599126274183,else
+Not Handcuffed,unidentified_gender_proportion,0.06088897909478384,else
+Handcuffed,gender_nonconforming_proportion,0.04160599126274183,else
+Not Handcuffed,gender_nonconforming_proportion,0.1082470739462824,else
+Handcuffed,BIPOC_proportion,89.67131266902435,else
+Not Handcuffed,BIPOC_proportion,84.60861917326298,else
+Handcuffed,white_proportion,10.328687330975661,else
+Not Handcuffed,white_proportion,15.391380826737027,else
+Handcuffed,hispanic_or_latino_proportion,24.869981277303932,else
+Not Handcuffed,hispanic_or_latino_proportion,24.626209322779243,else
+Handcuffed,black_or_african_american_proportion,58.61244019138756,else
+Not Handcuffed,black_or_african_american_proportion,48.85325756038157,else
+Handcuffed,asian_proportion,3.151653838152694,else
+Not Handcuffed,asian_proportion,5.885934645829105,else
+Handcuffed,multiracial_proportion,0.748907842729353,else
+Not Handcuffed,multiracial_proportion,1.427508287666599,else
+Handcuffed,middle_eastern_or_south_asian_proportion,1.3417932182234242,else
+Not Handcuffed,middle_eastern_or_south_asian_proportion,3.0376835126175497,else
+Handcuffed,pacific_islander_proportion,0.8217183274391513,else
+Not Handcuffed,pacific_islander_proportion,0.6630133279209797,else
+Handcuffed,native_american_proportion,0.1248179737882255,else
+Not Handcuffed,native_american_proportion,0.11501251606792504,else
+Handcuffed,lgbt_proportion,0.9049303099646349,else
+Not Handcuffed,lgbt_proportion,0.5750625803396252,else
+Handcuffed,not_lgbt_proportion,99.09506969003536,else
+Not Handcuffed,not_lgbt_proportion,99.42493741966038,else
+Handcuffed,less_than_10_years_proportion,0.052007489078427296,else
+Not Handcuffed,less_than_10_years_proportion,0.3247412218388472,else
+Handcuffed,aged_10-20_proportion,19.14915747867693,else
+Not Handcuffed,aged_10-20_proportion,19.092077667275557,else
+Handcuffed,aged_21-30_proportion,39.07842729353027,else
+Not Handcuffed,aged_21-30_proportion,37.62262363845477,else
+Handcuffed,aged_31-40_proportion,22.94570418140212,else
+Not Handcuffed,aged_31-40_proportion,21.4464515256072,else
+Handcuffed,aged_41-50_proportion,12.61701685042646,else
+Not Handcuffed,aged_41-50_proportion,13.469995264190516,else
+Handcuffed,aged_51-60_proportion,4.940711462450593,else
+Not Handcuffed,aged_51-60_proportion,5.412353697314119,else
+Handcuffed,aged_61-70_proportion,0.8425213230705222,else
+Not Handcuffed,aged_61-70_proportion,1.2516067925038903,else
+Handcuffed,aged_71-80_proportion,0.13521947160391096,else
+Not Handcuffed,aged_71-80_proportion,0.6630133279209797,else
+Handcuffed,aged_81-90_proportion,0.04160599126274183,else
+Not Handcuffed,aged_81-90_proportion,0.11501251606792504,else
+Handcuffed,aged_91-100_proportion,0.0,else
+Not Handcuffed,aged_91-100_proportion,0.0135308842432853,else
+Handcuffed,more_than_100_years_proportion,0.1976284584980237,else
+Not Handcuffed,more_than_100_years_proportion,0.5885934645829105,else
+Handcuffed,full_english_fluency_proportion,91.72040773871437,else
+Not Handcuffed,full_english_fluency_proportion,93.18719978350585,else
+Handcuffed,limited_english_fluency_proportion,8.279592261285625,else
+Not Handcuffed,limited_english_fluency_proportion,6.812800216494148,else
+Handcuffed,disabled_proportion,12.606615352610776,else
+Not Handcuffed,disabled_proportion,9.897841823963196,else
+Handcuffed,not_disabled_proportion,87.39338464738923,else
+Not Handcuffed,not_disabled_proportion,90.10215817603681,else
+Handcuffed,mental_health_condition_proportion,10.068649885583524,else
+Not Handcuffed,mental_health_condition_proportion,7.874974629592043,else
+Handcuffed,speech_impairment_proportion,0.9569377990430622,else
+Not Handcuffed,speech_impairment_proportion,0.38563020093363104,else
+Handcuffed,multiple_disability_proportion,0.6552943623881838,else
+Not Handcuffed,multiple_disability_proportion,0.8253839388404032,else
+Handcuffed,deafness_proportion,0.1248179737882255,else
+Not Handcuffed,deafness_proportion,0.07441986333806913,else
+Handcuffed,development_disability_proportion,0.15602246723528188,else
+Not Handcuffed,development_disability_proportion,0.20972870577092212,else
+Handcuffed,blind_proportion,0.11441647597254005,else
+Not Handcuffed,blind_proportion,0.10148163182463973,else
+Handcuffed,hyperactivity_proportion,0.0,else
+Not Handcuffed,hyperactivity_proportion,0.00676544212164265,else
+Handcuffed,other_disability_proportion,0.5304763885999584,else
+Not Handcuffed,other_disability_proportion,0.41945741154184424,else
+Handcuffed,jan_2019_proportion,7.967547326815061,else
+Not Handcuffed,jan_2019_proportion,8.206481293552534,else
+Handcuffed,feb_2019_proportion,7.541085916371958,else
+Not Handcuffed,feb_2019_proportion,8.206481293552534,else
+Handcuffed,mar_2019_proportion,8.237986270022883,else
+Not Handcuffed,mar_2019_proportion,9.106285095731007,else
+Handcuffed,apr_2019_proportion,8.820470147701268,else
+Not Handcuffed,apr_2019_proportion,9.14011230633922,else
+Handcuffed,may_2019_proportion,8.976492614936552,else
+Not Handcuffed,may_2019_proportion,8.598876936607807,else
+Handcuffed,jun_2019_proportion,8.95568961930518,else
+Not Handcuffed,jun_2019_proportion,9.383668222718354,else
+Handcuffed,jul_2019_proportion,9.704597462034533,else
+Not Handcuffed,jul_2019_proportion,11.075028753129017,else
+Handcuffed,aug_2019_proportion,9.538173496983566,else
+Not Handcuffed,aug_2019_proportion,9.640755023340777,else
+Handcuffed,sep_2019_proportion,8.258789265654254,else
+Not Handcuffed,sep_2019_proportion,7.266084838644206,else
+Handcuffed,oct_2019_proportion,7.551487414187644,else
+Not Handcuffed,oct_2019_proportion,6.569244300115012,else
+Handcuffed,nov_2019_proportion,7.4162679425837315,else
+Not Handcuffed,nov_2019_proportion,6.853392869224003,else
+Handcuffed,dec_2019_proportion,7.03141252340337,else
+Not Handcuffed,dec_2019_proportion,5.953589067045532,else
+Handcuffed,handcuffed_proportion,100.0,else
+Not Handcuffed,handcuffed_proportion,0.0,else
+Handcuffed,not_handcuffed_proportion,0.0,else
+Not Handcuffed,not_handcuffed_proportion,100.0,else
+Handcuffed,drugs_found_proportion,9.767006448928646,else
+Not Handcuffed,drugs_found_proportion,3.3150666396048982,else
+Handcuffed,drugs_not_found_proportion,90.23299355107135,else
+Not Handcuffed,drugs_not_found_proportion,96.68493336039509,else

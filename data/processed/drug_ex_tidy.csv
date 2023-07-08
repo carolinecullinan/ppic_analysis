@@ -1,0 +1,253 @@
+ced_drugs,variable,value,category
+Drugs Found,BIPOC,1337.0,Race
+Drugs Not Found,BIPOC,19790.0,Race
+Drugs Found,white,92.0,Race
+Drugs Not Found,white,3176.0,Race
+Drugs Found,Hispanic or Latino,314.0,Race
+Drugs Not Found,Hispanic or Latino,5717.0,Race
+Drugs Found,Black or African American,937.0,Race
+Drugs Not Found,Black or African American,11919.0,Race
+Drugs Found,Asian,50.0,Race
+Drugs Not Found,Asian,1123.0,Race
+Drugs Found,Multiracial,16.0,Race
+Drugs Not Found,Multiracial,267.0,Race
+Drugs Found,Middle Eastern or South Asian,16.0,Race
+Drugs Not Found,Middle Eastern or South Asian,562.0,Race
+Drugs Found,Pacific Islander,3.0,Race
+Drugs Not Found,Pacific Islander,174.0,Race
+Drugs Found,Native American,1.0,Race
+Drugs Not Found,Native American,28.0,Race
+Drugs Found,male,1257.0,Gender
+Drugs Not Found,male,16038.0,Gender
+Drugs Found,female,171.0,Gender
+Drugs Not Found,female,6896.0,Gender
+Drugs Found,unidentified gender,1.0,Gender
+Drugs Not Found,unidentified gender,12.0,Gender
+Drugs Found,gender nonconforming,0.0,Gender
+Drugs Not Found,gender nonconforming,20.0,Gender
+Drugs Found,lgbt,6.0,LGBT
+Drugs Not Found,lgbt,166.0,LGBT
+Drugs Found,not lgbt,1423.0,LGBT
+Drugs Not Found,not lgbt,22800.0,LGBT
+Drugs Found,less than 10 years,0.0,Age Group
+Drugs Not Found,less than 10 years,53.0,Age Group
+Drugs Found,aged 10-20,368.0,Age Group
+Drugs Not Found,aged 10-20,4295.0,Age Group
+Drugs Found,aged 21-30,598.0,Age Group
+Drugs Not Found,aged 21-30,8720.0,Age Group
+Drugs Found,aged 31-40,253.0,Age Group
+Drugs Not Found,aged 31-40,5123.0,Age Group
+Drugs Found,aged 41-50,141.0,Age Group
+Drugs Not Found,aged 41-50,3063.0,Age Group
+Drugs Found,aged 51-60,57.0,Age Group
+Drugs Not Found,aged 51-60,1218.0,Age Group
+Drugs Found,aged 61-70,12.0,Age Group
+Drugs Not Found,aged 61-70,254.0,Age Group
+Drugs Found,aged 71-80,0.0,Age Group
+Drugs Not Found,aged 71-80,111.0,Age Group
+Drugs Found,aged 81-90,0.0,Age Group
+Drugs Not Found,aged 81-90,21.0,Age Group
+Drugs Found,aged 91-100,0.0,Age Group
+Drugs Not Found,aged 91-100,2.0,Age Group
+Drugs Found,more than 100 years,0.0,Age Group
+Drugs Not Found,more than 100 years,106.0,Age Group
+Drugs Found,full english fluency,1372.0,English Fluency Level
+Drugs Not Found,full english fluency,21220.0,English Fluency Level
+Drugs Found,limited english fluency,57.0,English Fluency Level
+Drugs Not Found,limited english fluency,1746.0,English Fluency Level
+Drugs Found,disabled,33.0,Disability
+Drugs Not Found,disabled,2642.0,Disability
+Drugs Found,not disabled,1396.0,Disability
+Drugs Not Found,not disabled,20324.0,Disability
+Drugs Found,mental health condition,17.0,Disability
+Drugs Not Found,mental health condition,2115.0,Disability
+Drugs Found,speech impairment,5.0,Disability
+Drugs Not Found,speech impairment,144.0,Disability
+Drugs Found,multiple disability,0.0,Disability
+Drugs Not Found,multiple disability,185.0,Disability
+Drugs Found,deafness,1.0,Disability
+Drugs Not Found,deafness,22.0,Disability
+Drugs Found,development disability,0.0,Disability
+Drugs Not Found,development disability,46.0,Disability
+Drugs Found,blind,2.0,Disability
+Drugs Not Found,blind,24.0,Disability
+Drugs Found,hyperactivity,0.0,Disability
+Drugs Not Found,hyperactivity,1.0,Disability
+Drugs Found,other disability,8.0,Disability
+Drugs Not Found,other disability,105.0,Disability
+Drugs Found,traffic violation,539.0,Police Stop Reason
+Drugs Not Found,traffic violation,8823.0,Police Stop Reason
+Drugs Found,reasonable suspicion,723.0,Police Stop Reason
+Drugs Not Found,reasonable suspicion,12855.0,Police Stop Reason
+Drugs Found,knowledge of outstanding arrest warrant or wanted person,104.0,Police Stop Reason
+Drugs Not Found,knowledge of outstanding arrest warrant or wanted person,898.0,Police Stop Reason
+Drugs Found,consensual encounter resulting in search,22.0,Police Stop Reason
+Drugs Not Found,consensual encounter resulting in search,144.0,Police Stop Reason
+Drugs Found,parole/probation/PRCS/mandatory supervision,40.0,Police Stop Reason
+Drugs Not Found,parole/probation/PRCS/mandatory supervision,195.0,Police Stop Reason
+Drugs Found,investigtion to determine whether person was truant,1.0,Police Stop Reason
+Drugs Not Found,investigtion to determine whether person was truant,31.0,Police Stop Reason
+Drugs Found,possible conduct under education code,0.0,Police Stop Reason
+Drugs Not Found,possible conduct under education code,1.0,Police Stop Reason
+Drugs Found,unidentified reason for stop,0.0,Police Stop Reason
+Drugs Not Found,unidentified reason for stop,19.0,Police Stop Reason
+Drugs Found,determine whether student violated school policy,0.0,Police Stop Reason
+Drugs Not Found,determine whether student violated school policy,0.0,Police Stop Reason
+Drugs Found,jan_2019,124.0,else
+Drugs Not Found,jan_2019,1855.0,else
+Drugs Found,feb_2019,136.0,else
+Drugs Not Found,feb_2019,1802.0,else
+Drugs Found,mar_2019,122.0,else
+Drugs Not Found,mar_2019,2016.0,else
+Drugs Found,apr_2019,148.0,else
+Drugs Not Found,apr_2019,2051.0,else
+Drugs Found,may_2019,130.0,else
+Drugs Not Found,may_2019,2004.0,else
+Drugs Found,jun_2019,150.0,else
+Drugs Not Found,jun_2019,2098.0,else
+Drugs Found,jul_2019,128.0,else
+Drugs Not Found,jul_2019,2442.0,else
+Drugs Found,aug_2019,133.0,else
+Drugs Not Found,aug_2019,2209.0,else
+Drugs Found,sep_2019,106.0,else
+Drugs Not Found,sep_2019,1762.0,else
+Drugs Found,oct_2019,78.0,else
+Drugs Not Found,oct_2019,1619.0,else
+Drugs Found,nov_2019,99.0,else
+Drugs Not Found,nov_2019,1627.0,else
+Drugs Found,dec_2019,75.0,else
+Drugs Not Found,dec_2019,1481.0,else
+Drugs Found,handcuffed,939.0,Handcuff Use
+Drugs Not Found,handcuffed,8675.0,Handcuff Use
+Drugs Found,not handcuffed,490.0,Handcuff Use
+Drugs Not Found,not handcuffed,14291.0,Handcuff Use
+Drugs Found,drugs found,1429.0,Finding of Drugs
+Drugs Not Found,drugs found,0.0,Finding of Drugs
+Drugs Found,drugs not found,0.0,Finding of Drugs
+Drugs Not Found,drugs not found,22966.0,Finding of Drugs
+Drugs Found,consensual_encounter_resulting_in_search_proportion,1.5395381385584324,else
+Drugs Not Found,consensual_encounter_resulting_in_search_proportion,0.6270138465557782,else
+Drugs Found,investigtion_to_determine_whether_person_was_truant_proportion,0.06997900629811056,else
+Drugs Not Found,investigtion_to_determine_whether_person_was_truant_proportion,0.13498214752242443,else
+Drugs Found,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,7.2778166550035,else
+Drugs Not Found,knowledge_of_outstanding_arrest_warrant_or_wanted person_proportion,3.9101280153270053,else
+Drugs Found,parole_probation_PRCS_mandatory_supervision_proportion,2.7991602519244227,else
+Drugs Not Found,parole_probation_PRCS_mandatory_supervision_proportion,0.8490812505442829,else
+Drugs Found,possible_conduct_under_education_code_proportion,0.0,else
+Drugs Not Found,possible_conduct_under_education_code_proportion,0.004354262823304015,else
+Drugs Found,reasonable_suspicion_proportion,50.59482155353394,else
+Drugs Not Found,reasonable_suspicion_proportion,55.97404859357311,else
+Drugs Found,traffic_violation_proportion,37.718684394681596,else
+Drugs Not Found,traffic_violation_proportion,38.41766089001133,else
+Drugs Found,unidentified_reason_for_stop_proportion,0.0,else
+Drugs Not Found,unidentified_reason_for_stop_proportion,0.08273099364277628,else
+Drugs Found,determine_whether_student_violated_school_policy_proportion,0.0,else
+Drugs Not Found,determine_whether_student_violated_school_policy_proportion,0.0,else
+Drugs Found,male_proportion,87.96361091672499,else
+Drugs Not Found,male_proportion,69.83366716014979,else
+Drugs Found,female_proportion,11.966410076976906,else
+Drugs Not Found,female_proportion,30.026996429504482,else
+Drugs Found,unidentified_gender_proportion,0.06997900629811056,else
+Drugs Not Found,unidentified_gender_proportion,0.052251153879648175,else
+Drugs Found,gender_nonconforming_proportion,0.0,else
+Drugs Not Found,gender_nonconforming_proportion,0.08708525646608029,else
+Drugs Found,BIPOC_proportion,93.56193142057383,else
+Drugs Not Found,BIPOC_proportion,86.17086127318645,else
+Drugs Found,white_proportion,6.438068579426172,else
+Drugs Not Found,white_proportion,13.82913872681355,else
+Drugs Found,hispanic_or_latino_proportion,21.97340797760672,else
+Drugs Not Found,hispanic_or_latino_proportion,24.893320560829054,else
+Drugs Found,black_or_african_american_proportion,65.5703289013296,else
+Drugs Not Found,black_or_african_american_proportion,51.89845859096055,else
+Drugs Found,asian_proportion,3.498950314905528,else
+Drugs Not Found,asian_proportion,4.889837150570409,else
+Drugs Found,multiracial_proportion,1.119664100769769,else
+Drugs Not Found,multiracial_proportion,1.162588173822172,else
+Drugs Found,middle_eastern_or_south_asian_proportion,1.119664100769769,else
+Drugs Not Found,middle_eastern_or_south_asian_proportion,2.447095706696856,else
+Drugs Found,pacific_islander_proportion,0.2099370188943317,else
+Drugs Not Found,pacific_islander_proportion,0.7576417312548985,else
+Drugs Found,native_american_proportion,0.06997900629811056,else
+Drugs Not Found,native_american_proportion,0.12191935905251242,else
+Drugs Found,lgbt_proportion,0.4198740377886634,else
+Drugs Not Found,lgbt_proportion,0.7228076286684665,else
+Drugs Found,not_lgbt_proportion,99.58012596221134,else
+Drugs Not Found,not_lgbt_proportion,99.27719237133154,else
+Drugs Found,less_than_10_years_proportion,0.0,else
+Drugs Not Found,less_than_10_years_proportion,0.23077592963511276,else
+Drugs Found,aged_10-20_proportion,25.75227431770469,else
+Drugs Not Found,aged_10-20_proportion,18.701558826090743,else
+Drugs Found,aged_21-30_proportion,41.84744576627012,else
+Drugs Not Found,aged_21-30_proportion,37.969171819211006,else
+Drugs Found,aged_31-40_proportion,17.704688593421974,else
+Drugs Not Found,aged_31-40_proportion,22.306888443786466,else
+Drugs Found,aged_41-50_proportion,9.86703988803359,else
+Drugs Not Found,aged_41-50_proportion,13.337107027780196,else
+Drugs Found,aged_51-60_proportion,3.9888033589923024,else
+Drugs Not Found,aged_51-60_proportion,5.30349211878429,else
+Drugs Found,aged_61-70_proportion,0.8397480755773268,else
+Drugs Not Found,aged_61-70_proportion,1.1059827571192198,else
+Drugs Found,aged_71-80_proportion,0.0,else
+Drugs Not Found,aged_71-80_proportion,0.4833231733867456,else
+Drugs Found,aged_81-90_proportion,0.0,else
+Drugs Not Found,aged_81-90_proportion,0.0914395192893843,else
+Drugs Found,aged_91-100_proportion,0.0,else
+Drugs Not Found,aged_91-100_proportion,0.00870852564660803,else
+Drugs Found,more_than_100_years_proportion,0.0,else
+Drugs Not Found,more_than_100_years_proportion,0.4615518592702255,else
+Drugs Found,full_english_fluency_proportion,96.0111966410077,else
+Drugs Not Found,full_english_fluency_proportion,92.3974571105112,else
+Drugs Found,limited_english_fluency_proportion,3.9888033589923024,else
+Drugs Not Found,limited_english_fluency_proportion,7.60254288948881,else
+Drugs Found,disabled_proportion,2.309307207837649,else
+Drugs Not Found,disabled_proportion,11.503962379169206,else
+Drugs Found,not_disabled_proportion,97.69069279216235,else
+Drugs Not Found,not_disabled_proportion,88.49603762083079,else
+Drugs Found,mental_health_condition_proportion,1.1896431070678797,else
+Drugs Not Found,mental_health_condition_proportion,9.209265871287991,else
+Drugs Found,speech_impairment_proportion,0.34989503149055284,else
+Drugs Not Found,speech_impairment_proportion,0.6270138465557782,else
+Drugs Found,multiple_disability_proportion,0.0,else
+Drugs Not Found,multiple_disability_proportion,0.8055386223112427,else
+Drugs Found,deafness_proportion,0.06997900629811056,else
+Drugs Not Found,deafness_proportion,0.09579378211268832,else
+Drugs Found,development_disability_proportion,0.0,else
+Drugs Not Found,development_disability_proportion,0.20029608987198466,else
+Drugs Found,blind_proportion,0.13995801259622112,else
+Drugs Not Found,blind_proportion,0.10450230775929635,else
+Drugs Found,hyperactivity_proportion,0.0,else
+Drugs Not Found,hyperactivity_proportion,0.004354262823304015,else
+Drugs Found,other_disability_proportion,0.5598320503848845,else
+Drugs Not Found,other_disability_proportion,0.45719759644692154,else
+Drugs Found,jan_2019_proportion,8.67739678096571,else
+Drugs Not Found,jan_2019_proportion,8.077157537228947,else
+Drugs Found,feb_2019_proportion,9.517144856543037,else
+Drugs Not Found,feb_2019_proportion,7.846381607593835,else
+Drugs Found,mar_2019_proportion,8.537438768369489,else
+Drugs Not Found,mar_2019_proportion,8.778193851780895,else
+Drugs Found,apr_2019_proportion,10.356892932120363,else
+Drugs Not Found,apr_2019_proportion,8.930593050596535,else
+Drugs Found,may_2019_proportion,9.097270818754374,else
+Drugs Not Found,may_2019_proportion,8.725942697901246,else
+Drugs Found,jun_2019_proportion,10.496850944716584,else
+Drugs Not Found,jun_2019_proportion,9.135243403291824,else
+Drugs Found,jul_2019_proportion,8.957312806158152,else
+Drugs Not Found,jul_2019_proportion,10.633109814508405,else
+Drugs Found,aug_2019_proportion,9.307207837648706,else
+Drugs Not Found,aug_2019_proportion,9.618566576678568,else
+Drugs Found,sep_2019_proportion,7.417774667599721,else
+Drugs Not Found,sep_2019_proportion,7.672211094661674,else
+Drugs Found,oct_2019_proportion,5.458362491252624,else
+Drugs Not Found,oct_2019_proportion,7.0495515109292,else
+Drugs Found,nov_2019_proportion,6.927921623512947,else
+Drugs Not Found,nov_2019_proportion,7.084385613515631,else
+Drugs Found,dec_2019_proportion,5.248425472358292,else
+Drugs Not Found,dec_2019_proportion,6.4486632413132465,else
+Drugs Found,handcuffed_proportion,65.71028691392581,else
+Drugs Not Found,handcuffed_proportion,37.77322999216233,else
+Drugs Found,not_handcuffed_proportion,34.28971308607417,else
+Drugs Not Found,not_handcuffed_proportion,62.22677000783767,else
+Drugs Found,drugs_found_proportion,100.0,else
+Drugs Not Found,drugs_found_proportion,0.0,else
+Drugs Found,drugs_not_found_proportion,0.0,else
+Drugs Not Found,drugs_not_found_proportion,100.0,else
