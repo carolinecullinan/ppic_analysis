@@ -1,0 +1,3 @@
+This exploratory analysis takes a preliminary look at the Oakland Police Department’s (OPD) stopping behavior for the 2019 year. In analyzing demographic data as it relates to reasons for police stops, instances of handcuffs being used during stops, and instances of drugs being found during stops, a deeper understanding of OPD’s policing behaviors can be developed, thus ultimately informing more equitable policing practices.
+
+In order to access the accompanying Observable notebook, click [here](https://observablehq.com/@carolinecullinan/trends-in-police-stops)
